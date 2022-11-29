@@ -25,7 +25,7 @@ Yaptığınız yatırımları incelediğimde, yatırım yaptığınız tüm star
 
 **_Hazırlayan Ekip_**
 - @0smanKaradeniz  | Osman Karadeniz -190542012
-- @TheDegirmencI  | Gönenç Can Değirmencioğlu -190543090 
+- @TheDegirmencI  | Gönenç Can Değirmencioğlu -190541090 
 - Ömer Faruk Aydemir - 190541086
 
 
