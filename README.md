@@ -177,7 +177,7 @@ Sistemin tek tek mermerlerin yüksek kaliteli görüntüleri için optimize edil
 
 # Teknoloji Hazırlık Seviyeleri
 ## THS 1
-Projemizde mermer doğrulama alınarak ilerlenmiş olup bunun yanında mermer kalite sınıflandırması, mermer tür tespiti,renk analizi ve veri seti üretici gibi kısımlarıda bulunmaktadır.Aşağıda kalite sınıflandırmasına ilişkin biligiler yer edinmiştir.
+Projemizde mermer doğrulama temel alınarak ilerlenmiş olup bunun yanında mermer kalite sınıflandırması, mermer tür tespiti,renk analizi ve veri seti üretici gibi kısımlarıda bulunmaktadır.Aşağıda kalite sınıflandırmasına ilişkin biligiler yer edinmiştir.
 Farklı türdeki mermerlerin tanımlanması ve sınıflandırılması, genellikle bu alandaki uzman kişiler tarafından manuel olarak gerçekleştirilen kritik bir iştir.
 Mermer kalitesi sınıflandırılmasının insanlar tarafından ve manuel şekilde yapılması oldukça zaman alıcı, hatalara fazlasıyla açık, aynı zamanda da güvenilir olmayan ve öznel bir süreçtir. 
 Bu süreci daha nesnel ve güvenilir, çok daha hızlı ve çok daha az insan müdahalesi gerektirecek şekilde otomatik hale dönüştüren bilgi teknolojilerine dayalı yaklaşımlar ve yöntemlere büyük ölçüde gereksinim vardır.
