@@ -102,6 +102,9 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | 200541083 | Ali Kadir Bulut | QA Engineer |
 | 200541306 | Ercan Satık   | Database Developer |
 | 190541086 | Ömer Faruk Aydemir | Web Developer|
+| 190542018 | Hakan Bahşiş   | Front-end Developer |
+| 15542018 | Yakup KAYA   | Front-end Developer |
+| 195541073 | Abdullah Akpınar  | Test Engineer |
 #
 ## Sprint 1
 
@@ -183,10 +186,28 @@ Mermer kalitesi sınıflandırılmasının insanlar tarafından ve manuel şekil
 Bu süreci daha nesnel ve güvenilir, çok daha hızlı ve çok daha az insan müdahalesi gerektirecek şekilde otomatik hale dönüştüren bilgi teknolojilerine dayalı yaklaşımlar ve yöntemlere büyük ölçüde gereksinim vardır.
 Bu çalışmada; levha mermer resimlerini işleyerek altı farklı kalite tipine göre sınıflandıran bir derin öğrenme modeli geliştirmek amaçlanmıştır
 ## THS 2
-
+İlk olarak veri seti üreticiyle mermer görüntüleri üzerinde thresholding yöntemleriyle yaptığımız işlemlerde mermerler üzerinde bir nitelik çıkartmayı amaçladık ve bunu kısmen başardık. Veri seti üreticimiz Adaptive thresholding ve ADAPTIVE_THRESH_GAUSSIAN_C metodlarını kullanarak mermerlerin damarlarını daha belirgin hale getirmeyi amaçlamaktadır daha sonra görüntüler üzerinde renkleri ters çevirip damarları daha da belirgin hale getirdik ve eğittiğimiz model üzerinde mermer doğrulama işlemini başarıyla gerçekleştirdik aşağıda elde ettiğimiz görüntüyü görebilirsiniz.
+![SSproject](https://github.com/0smanKaradeniz/MDS/blob/main/islenen/6-islenen.jpg)
+Kalite sınıflandırma işleminde mermer görüntüleri üzerinde çatlaklar, noktalar ve kırıklar baz alınarak elde edilen model %98.6 doğruluk ile çalışıp mermerlerin kalitesini ayırt etmede ileride önemli bir rol üstleneceğinden eminiz
 ## THS 3
 ## THS 4
+Projemizde veri seti doğrulaması için gerekli testler yapıldı. Veri setinde kullanılan mermerler için doğruluk oranı 98.7% ve üzeri olarak saptandı. Manuel testler sonucu ortaya çıkan bug'lar düzeltildi.
+Projemizin geçtiği bazı testler aşağıda listelenmiştir.
+1. Güvenlik testi
+2. Performans testi
+3. Arabirim testi
+4. User Experience testi
+5. Veritabanı testi
+6. Oturum ve Çerez testi
 ## THS 5
+Projemiz test aşamalarını geçtikten sonra uygun çevresel ortamda testlerin doğruluğunu sağlamak ve projenin çevresel ortamda da aynı performans ve kalitede çalıştığını görmek adına deploy edilmiştir.
+Deploy edilen projenin farklı bilgisayarlarda da çalışmasının aynı olduğu gözlemlenmiştir. İnternet ortamında da çalışma mantalitesinden birşey eksilmeyen projemiz deployment ortamında da testleri başarı ile geçmştir.
+Çevresel ortam altında yapılan kontroller aşağıda listelenmiştir.
+1. Güvenlik
+2. Oturum ve çerez işlemleri
+3. Performans işlemleri
+4. Responsive uyumluluk
+5. İstikrarlı ve fonksiyonel çalışma
 ## THS 6
 ## THS 7
 ## THS 8
