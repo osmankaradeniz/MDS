@@ -177,6 +177,10 @@ Sistemin tek tek mermerlerin yüksek kaliteli görüntüleri için optimize edil
 
 # Teknoloji Hazırlık Seviyeleri
 ## THS 1
+Farklı türdeki mermerlerin tanımlanması ve sınıflandırılması, genellikle bu alandaki uzman kişiler tarafından manuel olarak gerçekleştirilen kritik bir iştir.
+Mermer kalitesi sınıflandırılmasının insanlar tarafından ve manuel şekilde yapılması oldukça zaman alıcı, hatalara fazlasıyla açık, aynı zamanda da güvenilir olmayan ve öznel bir süreçtir. 
+Bu süreci daha nesnel ve güvenilir, çok daha hızlı ve çok daha az insan müdahalesi gerektirecek şekilde otomatik hale dönüştüren bilgi teknolojilerine dayalı yaklaşımlar ve yöntemlere büyük ölçüde gereksinim vardır.
+Bu çalışmada; levha mermer resimlerini işleyerek altı farklı kalite tipine göre sınıflandıran bir derin öğrenme modeli geliştirmek amaçlanmıştır
 ## THS 2
 ## THS 3
 ## THS 4
