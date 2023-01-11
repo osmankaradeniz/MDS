@@ -49,14 +49,14 @@ Yaptığınız yatırımları incelediğimde, yatırım yaptığınız tüm star
    <li>
       <a href="#THS">Teknoloji Hazırlık Seviyeleri</a>
       <ul>
-        <li><a href="#ths-1">Sprint-1</a></li>
-        <li><a href="#ths-2">Sprint-2</a></li>
-        <li><a href="#ths-3">Sprint-3</a></li>
-        <li><a href="#ths-4">Sprint-4</a></li>
-        <li><a href="#ths-5">Sprint-5</a></li>
-        <li><a href="#ths-6">Sprint-6</a></li>
-        <li><a href="#ths-7">Sprint-7</a></li>
-        <li><a href="#ths-8">Sprint-8</a></li>
+        <li><a href="#ths-1">THS-1</a></li>
+        <li><a href="#ths-2">THS-2</a></li>
+        <li><a href="#ths-3">THS-3</a></li>
+        <li><a href="#ths-4">THS-4</a></li>
+        <li><a href="#ths-5">THS-5</a></li>
+        <li><a href="#ths-6">THS-6</a></li>
+        <li><a href="#ths-7">THS-7</a></li>
+        <li><a href="#ths-8">THS-8</a></li>
       </ul>
     </li>
     <li><a href="#Projenin-Kullanımı">Projenin Kullanımı</a></li>
@@ -171,7 +171,15 @@ Mermer kalite tespit sistemini kullanmak için aşağıdaki adımları izleyin:
 Sistemin tek tek mermerlerin yüksek kaliteli görüntüleri için optimize edildiğini lütfen unutmayın. En iyi sonuçları elde etmek için, bilyenin iyi aydınlatılmış ve odakta olduğundan ve görüntünün başka nesneler veya arka planlar içermediğinden emin olun. Sistem, kısmen örtülü olan veya karmaşık desenlere veya yüzey dokularına sahip olan mermerleri doğru bir şekilde analiz edemeyebilir.
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
-
+# Teknoloji Hazırlık Seviyeleri
+## THS 1
+## THS 2
+## THS 3
+## THS 4
+## THS 5
+## THS 6
+## THS 7
+## THS 8
 
 <!-- SWOT Analizi -->
 ## SWOT Analizi
@@ -203,5 +211,3 @@ Fırat Üniversitesi Yazılım Mühendisliği Bölümü kurallarına uygun olara
 
 <!-- lİNKLER -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screenshot.png
-[swot-screenshot]: images/SWOT.png
