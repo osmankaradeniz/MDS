@@ -191,6 +191,7 @@ Bu çalışmada; levha mermer resimlerini işleyerek altı farklı kalite tipine
 Kalite sınıflandırma işleminde mermer görüntüleri üzerinde çatlaklar, noktalar ve kırıklar baz alınarak elde edilen model %98.6 doğruluk ile çalışıp mermerlerin kalitesini ayırt etmede ileride önemli bir rol üstleneceğinden eminiz
 ## THS 3
 ## THS 4
+## THS 5
 Projemizde veri seti doğrulaması için gerekli testler yapıldı. Veri setinde kullanılan mermerler için doğruluk oranı 98.7% ve üzeri olarak saptandı. Manuel testler sonucu ortaya çıkan bug'lar düzeltildi.
 Projemizin geçtiği bazı testler aşağıda listelenmiştir.
 1. Güvenlik testi
@@ -199,7 +200,7 @@ Projemizin geçtiği bazı testler aşağıda listelenmiştir.
 4. User Experience testi
 5. Veritabanı testi
 6. Oturum ve Çerez testi
-## THS 5
+## THS 6
 Projemiz test aşamalarını geçtikten sonra uygun çevresel ortamda testlerin doğruluğunu sağlamak ve projenin çevresel ortamda da aynı performans ve kalitede çalıştığını görmek adına deploy edilmiştir.
 Deploy edilen projenin farklı bilgisayarlarda da çalışmasının aynı olduğu gözlemlenmiştir. İnternet ortamında da çalışma mantalitesinden birşey eksilmeyen projemiz deployment ortamında da testleri başarı ile geçmştir.
 Çevresel ortam altında yapılan kontroller aşağıda listelenmiştir.
@@ -208,7 +209,6 @@ Deploy edilen projenin farklı bilgisayarlarda da çalışmasının aynı olduğ
 3. Performans işlemleri
 4. Responsive uyumluluk
 5. İstikrarlı ve fonksiyonel çalışma
-## THS 6
 ## THS 7
 ## THS 8
 
