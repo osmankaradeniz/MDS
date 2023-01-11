@@ -127,7 +127,7 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | Gönenç Değirmencioğlu | Projenin Çalışabileceği Hostların Araştırılması | 3 hafta  |
 | Ali Kadir Bulut | Veri Setinin Ayrıştırılması ve Etiketlenmesi | 1 hafta |
 | Ercan Satık | Geliştirilen Algoritmanın Testi | 2 hafta  |
-| Ömer Faruk Aydemir | Proje İçin Gerekli Olan Logo Tasarımı | 3 |
+| Ömer Faruk Aydemir | Proje İçin Gerekli Olan Logo Tasarımı | 3 Hafta |
 
 ### Sprint 2 Sonuçları
 - Hedef: Mermerin kalitesinin analiz edilebilmesi için eğitim , test ve doğrulama şeklinde ayrılan veri seti için Derin Öğrenme algoritması (CNN) kullanılarak geliştirilmesi.
