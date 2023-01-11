@@ -188,7 +188,7 @@ Bu çalışmada; levha mermer resimlerini işleyerek altı farklı kalite tipine
 ## THS 2
 İlk olarak veri seti üreticiyle mermer görüntüleri üzerinde thresholding yöntemleriyle yaptığımız işlemlerde mermerler üzerinde bir nitelik çıkartmayı amaçladık ve bunu kısmen başardık. Veri seti üreticimiz Adaptive thresholding ve ADAPTIVE_THRESH_GAUSSIAN_C metodlarını kullanarak mermerlerin damarlarını daha belirgin hale getirmeyi amaçlamaktadır daha sonra görüntüler üzerinde renkleri ters çevirip damarları daha da belirgin hale getirdik ve eğittiğimiz model üzerinde mermer doğrulama işlemini başarıyla gerçekleştirdik aşağıda elde ettiğimiz görüntüyü görebilirsiniz.
 ![SSproject](https://github.com/0smanKaradeniz/MDS/blob/main/islenen/6-islenen.jpg)
-Kalite sınıflandırma işleminde mermer görüntüleri üzerinde çatlaklar, noktalar ve kırıklar baz alınarak elde edilen model %98.6 doğruluk ile çalışıp mermerlerin kalitesini ayırt etmede ileride önemli bir rol üstleneceğinden eminiz
+Kalite sınıflandırma işleminde mermer görüntüleri üzerinde çatlaklar, noktalar ve kırıklar baz alınarak elde edilen model %98.6 doğruluk ile çalışıp mermerlerin kalitesini ayırt etmede ileride önemli bir rol üstleneceğinden eminiz.
 ## THS 3
 ## THS 4
 ## THS 5
