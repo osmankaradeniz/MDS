@@ -19,7 +19,7 @@
 
 
 ### Asansör Konuşması :
- Merhaba ben Fırat üniversitesi / Yazılım mühendisliği son sınıf öğrensiyim , sınıf arkadaşlarım ile MDS adında bir şirket kurduk.Amacımız Mermer ticareti faaliyetleri sürecinde çağımızda önde gelen teknoloji ve yaklaşımları kullanarak insanların arasında oluşan güven problemini ortadan kaldırmayı amaçlayan bir uygulama geliştirmek. Uygulamamız sayesinde bir alıcı ve satıcı birbirlerini iyi tanımak ve güvenebilmek için harcayacakları zamanı daha öncelikli işlerinde kullanabileceklerdir.
+ Merhaba biz Fırat üniversitesi / Yazılım mühendisliği son sınıf öğrensiyiz , sınıf arkadaşlarım ile MDS adında bir şirket kurduk.Amacımız Mermer ticareti faaliyetleri sürecinde çağımızda önde gelen teknoloji ve yaklaşımları kullanarak insanların arasında oluşan güven problemini ortadan kaldırmayı amaçlayan bir uygulama geliştirmek. Uygulamamız sayesinde bir alıcı ve satıcı birbirlerini iyi tanımak ve güvenebilmek için harcayacakları zamanı daha öncelikli işlerinde kullanabileceklerdir.
 
 Yaptığınız yatırımları incelediğimde, yatırım yaptığınız tüm startupların hızla ilerleme kaydettiklerini ve yatırımlarınızın daha çok zaman kazandırmayı hedefleyen girişim fikirlerini kapsadığını gözlemledim. Sizinde desteğiniz ile girişimimizin de onlar içerisinde yer alabileceğini onlardan daha büyük bir büyüme potansiyeli taşıdığını sonuçların hepimizi mutlu edecek ve çifte kazanç sağlayabileceğimizi düşünüyorum.
  
@@ -190,7 +190,7 @@ Bu çalışmada; levha mermer resimlerini işleyerek altı farklı kalite tipine
 ![SSproject](https://github.com/0smanKaradeniz/MDS/blob/main/islenen/6-islenen.jpg)
 Kalite sınıflandırma işleminde mermer görüntüleri üzerinde çatlaklar, noktalar ve kırıklar baz alınarak elde edilen model %98.6 doğruluk ile çalışıp mermerlerin kalitesini ayırt etmede ileride önemli bir rol üstleneceğinden eminiz.
 ## THS 3
-Mermer ocağında bir veri merkezi kurulup ve gerekli olan sunucular, depolama aygıtları ve ağ ekipmanları yerleştirilir. Ayrıca, verilerin güvenliği için güvenlik duvarı ve diğer güvenlik önlemleri yapılandırılır.
+Mermer endüstrisinde oluşabilen anlaşmazlıkları en aza indirebilecek şekilde, mermer üzerindeki desenlerde yapay zeka tekniklerini kullanarak matematiksel işlemler ile mermerlerin birbirinden ayırt edip, her mermerin özniteliklerini çıkararak mermer doğruluğunu en az bir uzman kadar yapabilecek bir model ortaya koyduk. 
 ## THS 4
 Mermer doğrulama sistemi, üretim sistemi ile entegre edilip, bu sayede üretilen mermerlerin bilgileri otomatik olarak doğrulama sistemine aktarılır ve doğrulama işlemleri gerçekleştirilir. Satış sistemi ile entegre edilip, bu sayede satılan mermerlerin bilgileri otomatik olarak doğrulama sistemine aktarılır ve doğrulama işlemleri gerçekleştirilir. Ayrıca mermer sahasına gelemeyecek olan müşteriler için, mermerlerin kalitesini ve doğruluğunu tespit eden uzaktan kontrol edilebilen drone sistemi entegre edilip, mermer ocağında çalışanlar ve müşteriler için veri erişimi ve işlemler daha kolay hale getirilir.
 ## THS 5
