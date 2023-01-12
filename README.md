@@ -192,7 +192,6 @@ Kalite sınıflandırma işleminde mermer görüntüleri üzerinde çatlaklar, n
 ## THS 3
 Mermer ocağında bir veri merkezi kurulup ve gerekli olan sunucular, depolama aygıtları ve ağ ekipmanları yerleştirilir. Ayrıca, verilerin güvenliği için güvenlik duvarı ve diğer güvenlik önlemleri yapılandırılır.
 ## THS 4
-Bu adımda, mermer ocağında kullanılan diğer sistemlerle mermer doğrulama sistemi arasında entegrasyon sağlanır. 
 Mermer doğrulama sistemi, üretim sistemi ile entegre edilip, bu sayede üretilen mermerlerin bilgileri otomatik olarak doğrulama sistemine aktarılır ve doğrulama işlemleri gerçekleştirilir. Satış sistemi ile entegre edilip, bu sayede satılan mermerlerin bilgileri otomatik olarak doğrulama sistemine aktarılır ve doğrulama işlemleri gerçekleştirilir. Ayrıca mermer sahasına gelemeyecek olan müşteriler için, mermerlerin kalitesini ve doğruluğunu tespit eden uzaktan kontrol edilebilen drone sistemi entegre edilip, mermer ocağında çalışanlar ve müşteriler için veri erişimi ve işlemler daha kolay hale getirilir.
 ## THS 5
 Projemizde veri seti doğrulaması için gerekli testler yapıldı. Veri setinde kullanılan mermerler için doğruluk oranı 98.7% ve üzeri olarak saptandı. Manuel testler sonucu ortaya çıkan bug'lar düzeltildi.
