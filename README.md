@@ -98,7 +98,7 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | Okul Numarası | Adı Soyadı  | Yetkinlik |
 | :-----:  | :-----: | :---: | 
 | 190542012 | Osman Karadeniz | Full Stack Developer - Scrum Master|
-| 190541090 | Gönenç Değirmencioğlu | Network Engineer|
+| 190541090 | Gönenç Can Değirmencioğlu | Network Engineer|
 | 200541083 | Ali Kadir Bulut | QA Engineer |
 | 200541306 | Ercan Satık   | Database Developer |
 | 190541086 | Ömer Faruk Aydemir | Web Developer|
@@ -111,14 +111,14 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
 | Osman Karadeniz   | potansiyel Front-end frameworkleri araştırmak ve değerlendirmek| 3 hafta |
-| Gönenç Değirmencioğlu | potansiyel Back-end teknolojilerini araştırmak ve değerlendirmek  | 3 hafta |
+| Gönenç Can Değirmencioğlu | potansiyel Back-end teknolojilerini araştırmak ve değerlendirmek  | 3 hafta |
 | Ali Kadir Bulut | - | - |
 | Ercan Satık | Veri setlerinin toplanması | 3 hafta |
 | Ömer Faruk Aydemir |Olası firmalar ile görüşmeler  | 3 hafta |
 
 ### Sprint 1 Sonuçları
 - Hedef: Proje için potansiyel Front-end frameworkleri ve Back-end teknolojilerini araştırmak ve değerlendirmek.
-- Görevlendirildi: Osman Karadeniz, Gönenç Değirmencioğlu, Ercan Satık, Ali Kadir Bulut,Ömer Faruk Aydemir
+- Görevlendirildi: Osman Karadeniz, Gönenç Can Değirmencioğlu, Ercan Satık, Ali Kadir Bulut,Ömer Faruk Aydemir
 - Çıktılar: Front-end ve Back-end teknolojilerinin karşılaştırma raporu.
 - Sonuç: Karşılaştırma raporuna dayanarak hangi front-end ve back-end teknolojileri kullanılacağına karar veridi
 
@@ -127,14 +127,14 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
 | Osman Karadeniz   | Mermer Kalite Analizi İçin İhtiyaç Duyulan Algoritmanın Geliştirilmesi| 3 hafta  |
-| Gönenç Değirmencioğlu | Projenin Çalışabileceği Hostların Araştırılması | 3 hafta  |
+| Gönenç Can Değirmencioğlu | Projenin Çalışabileceği Hostların Araştırılması | 3 hafta  |
 | Ali Kadir Bulut | Veri Setinin Ayrıştırılması ve Etiketlenmesi | 1 hafta |
 | Ercan Satık | Geliştirilen Algoritmanın Testi | 2 hafta  |
 | Ömer Faruk Aydemir | Proje İçin Gerekli Olan Logo Tasarımı | 3 Hafta |
 
 ### Sprint 2 Sonuçları
 - Hedef: Mermerin kalitesinin analiz edilebilmesi için eğitim , test ve doğrulama şeklinde ayrılan veri seti için Derin Öğrenme algoritması (CNN) kullanılarak geliştirilmesi.
-- Görevlendirildi: Osman Karadeniz, Gönenç Değirmencioğlu, Ercan Satık, Ali Kadir Bulut, Ömer Faruk Aydemir
+- Görevlendirildi: Osman Karadeniz, Gönenç Can Değirmencioğlu, Ercan Satık, Ali Kadir Bulut, Ömer Faruk Aydemir
 - Çıktılar: Modelin Başarıyla Eğitilmesi, projenin logosunun belirlenmesi ve Host seçimi.
 
 
@@ -143,28 +143,28 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
 | Osman Karadeniz   | Geliştirilmiş Olunan Mermer Analiz Algoritması İçin Front-end tarafının Geliştirilmesi| 3 hafta |
-| Gönenç Değirmencioğlu | THS Seviyelerinin Dökümantasyonu | 3 hafta |
+| Gönenç Can Değirmencioğlu | THS Seviyelerinin Dökümantasyonu | 3 hafta |
 | Ali Kadir Bulut | Lokal Ortamdaki Ürünün Testi  | 3 hafta |
 | Ercan Satık | Veritabanının Lokal Ortama Bağlanması | 3 hafta |
 | Ömer Faruk Aydemir | THS Seviyelerinin Dökümantasyonu | 3 hafta |
 
 ### Sprint 3 Sonuçları 
 - Hedef: Geliştirilmiş mermer analiz algoritmasının front-end tarafının geliştirilmesi, THS seviyelerinin dökümantasyonu, canlı ortamdaki ürünün testi ve veritabanının canlı ortama bağlanması.
-- Görevlendirildi: Osman Karadeniz, Gönenç Değirmencioğlu, Ali Kadir Bulut, Ercan Satık, Ömer Faruk Aydemir
+- Görevlendirildi: Osman Karadeniz, Gönenç Can Değirmencioğlu, Ali Kadir Bulut, Ercan Satık, Ömer Faruk Aydemir
 - Çıktılar: Front-end tarafının geliştirilmesi, THS seviyelerinin dökümantasyonu, canlı ortamdaki ürünün testi ve veritabanının canlı ortama bağlanması.
 ## Sprint 4
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
 | Osman Karadeniz   | Projenin Tam Entegrasyonu Ve Canlı Ortama Aktarılması| 3 Hafta |
-| Gönenç Değirmencioğlu | Proje İçin SWOT Analizinin Yapılması | 3 Hafta |
+| Gönenç Can Değirmencioğlu | Proje İçin SWOT Analizinin Yapılması | 3 Hafta |
 | Ali Kadir Bulut | Canlı Ortamdaki Projenin Fonksiyonel Testlerinin Yapılması | 2 hafta  |
 | Ercan Satık | Canlı Ortamdaki Projenin Fonksiyonel Olmayan Testlerin Yapılması | 2 hafta |
 
 
 ### Sprint 4 Sonuçları  
 - Hedef: Projenin tam entegrasyonu ve canlı ortama aktarma, SWOT analizi yapılması, canlı ortamdaki projenin fonksiyonel ve fonksiyonel olmayan testlerinin yapılması.
-- Görevlendirildi: Osman Karadeniz, Gönenç Değirmencioğlu, Ali Kadir Bulut, Ercan Satık
+- Görevlendirildi: Osman Karadeniz, Gönenç Can Değirmencioğlu, Ali Kadir Bulut, Ercan Satık
 - Çıktılar: Projenin tam entegrasyonu ve canlı ortama aktarma, SWOT analizi yapılması, canlı ortamdaki projenin fonksiyonel ve fonksiyonel olmayan testlerinin yapılması.
 
 ## Projenin Kullanımı
