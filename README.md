@@ -190,7 +190,26 @@ Bu çalışmada; levha mermer resimlerini işleyerek altı farklı kalite tipine
 ![SSproject](https://github.com/0smanKaradeniz/MDS/blob/main/islenen/6-islenen.jpg)
 Kalite sınıflandırma işleminde mermer görüntüleri üzerinde çatlaklar, noktalar ve kırıklar baz alınarak elde edilen model %98.6 doğruluk ile çalışıp mermerlerin kalitesini ayırt etmede ileride önemli bir rol üstleneceğinden eminiz.
 ## THS 3
+Mermer endüstrisinde oluşabilen anlaşmazlıkları en aza indirebilecek şekilde, mermer üzerindeki desenlerde yapay zeka tekniklerini kullanarak matematiksel işlemler ile mermerlerin birbirinden ayırt edip, her mermerin özniteliklerini çıkararak mermer doğruluğunu en az bir uzman kadar yapabilecek bir model ortaya koyduk. 
+
+<img src="https://raw.githubusercontent.com/hakanbahsis/MDS/patch-1/visne.jpg" align="center" width="850" height="550">
+
+<p align="center"> <b>Mermer fotoğrafının işlemden sonraki çıktısı</b>  </p>
+
+
 ## THS 4
+
+Mermerlerin renk analizini yaparak, mermerde renk tonlarının çizelgesini çizdirerek renk kodları ile birlikte geliştirdiğimiz algoritma ile  ortaya çıkartıyoruz.
+
+<img src="http://mds23.pythonanywhere.com/static/runs/colors/elazg-visne.jpg" align="center" width="650" height="450">
+
+
+Ayrıca sistemimizde 28 farklı mermer veri setini eğiterek mermerleri başarılı bir şekilde sınıflandırabiliyoruz.
+
+<img src="http://mds23.pythonanywhere.com/static/uploads/images/ms.jpg" align="center" width="650" height="450">
+
+
+
 ## THS 5
 Projemizde veri seti doğrulaması için gerekli testler yapıldı. Veri setinde kullanılan mermerler için doğruluk oranı 98.7% ve üzeri olarak saptandı. Manuel testler sonucu ortaya çıkan bug'lar düzeltildi.
 Projemizin geçtiği bazı testler aşağıda listelenmiştir.
