@@ -1,4 +1,3 @@
- 
 <a name="readme-top"></a>
 # MDS
 
@@ -114,11 +113,12 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | Gönenç Değirmencioğlu | potansiyel Back-end teknolojilerini araştırmak ve değerlendirmek  | 3 hafta |
 | Ali Kadir Bulut | - | - |
 | Ercan Satık | Veri setlerinin toplanması | 3 hafta |
+| Hakan Bahşiş | potansiyel Front-end frameworkleri araştırmak ve değerlendirmek | 3 hafta |
 | Ömer Faruk Aydemir |Olası firmalar ile görüşmeler  | 3 hafta |
 
 ### Sprint 1 Sonuçları
 - Hedef: Proje için potansiyel Front-end frameworkleri ve Back-end teknolojilerini araştırmak ve değerlendirmek.
-- Görevlendirildi: Osman Karadeniz, Gönenç Değirmencioğlu, Ercan Satık, Ali Kadir Bulut,Ömer Faruk Aydemir
+- Görevlendirildi: Osman Karadeniz, Gönenç Değirmencioğlu, Ercan Satık, Hakan Bahşiş, Ali Kadir Bulut,Ömer Faruk Aydemir
 - Çıktılar: Front-end ve Back-end teknolojilerinin karşılaştırma raporu.
 - Sonuç: Karşılaştırma raporuna dayanarak hangi front-end ve back-end teknolojileri kullanılacağına karar veridi
 
@@ -130,11 +130,12 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | Gönenç Değirmencioğlu | Projenin Çalışabileceği Hostların Araştırılması | 3 hafta  |
 | Ali Kadir Bulut | Veri Setinin Ayrıştırılması ve Etiketlenmesi | 1 hafta |
 | Ercan Satık | Geliştirilen Algoritmanın Testi | 2 hafta  |
+| Hakan Bahşiş | Front-end için tema geliştirilmesi | 3 hafta |
 | Ömer Faruk Aydemir | Proje İçin Gerekli Olan Logo Tasarımı | 3 Hafta |
 
 ### Sprint 2 Sonuçları
 - Hedef: Mermerin kalitesinin analiz edilebilmesi için eğitim , test ve doğrulama şeklinde ayrılan veri seti için Derin Öğrenme algoritması (CNN) kullanılarak geliştirilmesi.
-- Görevlendirildi: Osman Karadeniz, Gönenç Değirmencioğlu, Ercan Satık, Ali Kadir Bulut, Ömer Faruk Aydemir
+- Görevlendirildi: Osman Karadeniz, Gönenç Değirmencioğlu, Ercan Satık, Ali Kadir Bulut, Hakan Bahşiş, Ömer Faruk Aydemir
 - Çıktılar: Modelin Başarıyla Eğitilmesi, projenin logosunun belirlenmesi ve Host seçimi.
 
 
@@ -145,12 +146,13 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | Osman Karadeniz   | Geliştirilmiş Olunan Mermer Analiz Algoritması İçin Front-end tarafının Geliştirilmesi| 3 hafta |
 | Gönenç Değirmencioğlu | THS Seviyelerinin Dökümantasyonu | 3 hafta |
 | Ali Kadir Bulut | Lokal Ortamdaki Ürünün Testi  | 3 hafta |
+| Hakan Bahşiş | Front-end geliştirilmesi | 3 hafta |
 | Ercan Satık | Veritabanının Lokal Ortama Bağlanması | 3 hafta |
 | Ömer Faruk Aydemir | THS Seviyelerinin Dökümantasyonu | 3 hafta |
 
 ### Sprint 3 Sonuçları 
 - Hedef: Geliştirilmiş mermer analiz algoritmasının front-end tarafının geliştirilmesi, THS seviyelerinin dökümantasyonu, canlı ortamdaki ürünün testi ve veritabanının canlı ortama bağlanması.
-- Görevlendirildi: Osman Karadeniz, Gönenç Değirmencioğlu, Ali Kadir Bulut, Ercan Satık, Ömer Faruk Aydemir
+- Görevlendirildi: Osman Karadeniz, Gönenç Değirmencioğlu, Ali Kadir Bulut, Ercan Satık, Hakan Bahşiş, Ömer Faruk Aydemir
 - Çıktılar: Front-end tarafının geliştirilmesi, THS seviyelerinin dökümantasyonu, canlı ortamdaki ürünün testi ve veritabanının canlı ortama bağlanması.
 ## Sprint 4
 
@@ -190,7 +192,26 @@ Bu çalışmada; levha mermer resimlerini işleyerek altı farklı kalite tipine
 ![SSproject](https://github.com/0smanKaradeniz/MDS/blob/main/islenen/6-islenen.jpg)
 Kalite sınıflandırma işleminde mermer görüntüleri üzerinde çatlaklar, noktalar ve kırıklar baz alınarak elde edilen model %98.6 doğruluk ile çalışıp mermerlerin kalitesini ayırt etmede ileride önemli bir rol üstleneceğinden eminiz.
 ## THS 3
+Mermer endüstrisinde oluşabilen anlaşmazlıkları en aza indirebilecek şekilde, mermer üzerindeki desenlerde yapay zeka tekniklerini kullanarak matematiksel işlemler ile mermerlerin birbirinden ayırt edip, her mermerin özniteliklerini çıkararak mermer doğruluğunu en az bir uzman kadar yapabilecek bir model ortaya koyduk. 
+
+<img src="https://raw.githubusercontent.com/hakanbahsis/MDS/patch-1/visne.jpg" align="center" width="850" height="550">
+
+<p align="center"> <b>Mermer fotoğrafının işlemden sonraki çıktısı</b>  </p>
+
+
 ## THS 4
+
+Mermerlerin renk analizini yaparak, mermerde renk tonlarının çizelgesini çizdirerek renk kodları ile birlikte geliştirdiğimiz algoritma ile  ortaya çıkartıyoruz.
+
+<img src="http://mds23.pythonanywhere.com/static/runs/colors/elazg-visne.jpg" align="center" width="650" height="450">
+
+
+Ayrıca sistemimizde 28 farklı mermer veri setini eğiterek mermerleri başarılı bir şekilde sınıflandırabiliyoruz.
+
+<img src="http://mds23.pythonanywhere.com/static/uploads/images/ms.jpg" align="center" width="650" height="450">
+
+
+
 ## THS 5
 Projemizde veri seti doğrulaması için gerekli testler yapıldı. Veri setinde kullanılan mermerler için doğruluk oranı 98.7% ve üzeri olarak saptandı. Manuel testler sonucu ortaya çıkan bug'lar düzeltildi.
 Projemizin geçtiği bazı testler aşağıda listelenmiştir.
