@@ -217,6 +217,7 @@ Projemize ‘http://mds23.pythonanywhere.com’ adresinden ulaştıktan sonra a�
 ### Kayıt ve Giriş Ekranı
 Sisteme kayıt için gerekli bilgileri doldurduktan sonra ‘Kayıt Ol’ butonuna basmamız yeterli. Sisteme aynı e-mail adresiyle birden fazla kayıt oluşturulamaz ve e-mail adresi uygun formatta olmalıdır. 
 ![ths-7.1]
+
 Bilgilerimizi doğru bir şekilde girip butona bastıktan sonra aşağıdaki gibi bir bildirim almamız gerekiyor. Bu aşamadan sonra sisteme kaydını yaptığımız e-mail adresimizi aktif etmemiz gerekiyor.
 ![ths-7.2]
 
