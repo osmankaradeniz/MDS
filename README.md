@@ -59,7 +59,7 @@ Yaptığınız yatırımları incelediğimde, yatırım yaptığınız tüm star
         <li>
          <a href="#ths-7">THS-7</a>
        <ul>
-        <li><a href="#Ana Sayfa">Prerequisites</a></li>
+        <li><a href="#Ana Sayfa">Ana Sayfa</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
        </li>       
