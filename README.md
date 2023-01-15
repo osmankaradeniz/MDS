@@ -219,7 +219,9 @@ Kalite sınıflandırma işleminde mermer görüntüleri üzerinde çatlaklar, n
 ## THS 3
 Boş
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
+
 ## THS 4
+
 Projemizde veri seti doğrulaması için gerekli testler yapıldı. Veri setinde kullanılan mermerler için doğruluk oranı 98.7% ve üzeri olarak saptandı. Manuel testler sonucu ortaya çıkan bug'lar düzeltildi.
 Projemizin geçtiği bazı testler aşağıda listelenmiştir.
 1. Güvenlik testi
