@@ -57,7 +57,7 @@ Yaptığınız yatırımları incelediğimde, yatırım yaptığınız tüm star
         <li><a href="#ths-5">THS-5</a></li>
         <li><a href="#ths-6">THS-6</a></li>
         <li>
-         <a href="#ths-7">THS-7</a>
+         <a href="#ths-7">THS 7-8</a>
        <ul>
         <li><a href="#Ana-Sayfa">Ana Sayfa</a></li>
         <li><a href="#Kayıt-ve-Giriş-Ekranı">Kayıt ve Giriş Ekranı</a></li>
@@ -66,9 +66,7 @@ Yaptığınız yatırımları incelediğimde, yatırım yaptığınız tüm star
         <li><a href="#Modüllerin-Kullanımı">Modüllerin Kullanımı</a></li>
         <li><a href="#Modüllerin-çıktıları">Modüllerin Çıktıları</a></li>
         </ul>
-       </li>       
-        <li><a href="#ths-8">THS-8</a></li>
-      </ul>
+
     </li>
     <li><a href="#Projenin-Kullanımı">Projenin Kullanımı</a></li>
     <li><a href="#SWOT-Analizi">SWOT Analizi</a></li>
