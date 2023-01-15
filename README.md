@@ -67,7 +67,6 @@ Yaptığınız yatırımları incelediğimde, yatırım yaptığınız tüm star
         <li><a href="#Modüllerin-çıktıları">Modüllerin Çıktıları</a></li>
         </ul>
        </li>       
-        <li><a href="#ths-8">THS-8</a></li>
       </ul>
     </li>
     <li><a href="#Projenin-Kullanımı">Projenin Kullanımı</a></li>
