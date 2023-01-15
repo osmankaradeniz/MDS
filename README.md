@@ -234,7 +234,7 @@ Sisteme giriş yaptıktan sonra bizi fotoğraftaki gibi bir ekran karşılıyor.
 
 ### Kullanıcı İşlemleri
 Profil logosuna tıklayarak oturumumuzu kapatabilir, dilersek şifremizi güncelleyebiliriz.
-![ths-7.5]
+![ths-7.6]
 
 ### Modüllerin Kullanımı
 İhtiyacımız olan modülü ‘Modüller’ başlığı altından seçtikten sonra ‘Dosya Seç’ kısmından işlem yapmak istediğimiz dosyayı sisteme yüklüyoruz. Uygulama ‘png’, ‘jpg’ ve ‘jpeg’ görüntü formatlarını desteklemekle birlikte ‘avi’ ve ‘mp4’ türünde ki videolarla işlem yapabilmekte. Bu uzantıların haricinde bir dosya yüklediği takdirde sistem aşağıdaki gibi bir uyarı vermekte.
