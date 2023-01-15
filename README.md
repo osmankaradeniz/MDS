@@ -124,6 +124,9 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | Ali Kadir Bulut | - | - |
 | Ercan Satık | Veri setlerinin toplanması | 3 hafta |
 | Ömer Faruk Aydemir |Olası firmalar ile görüşmeler  | 3 hafta |
+| 190542018 | Hakan Bahşiş   | Front-end Developer |
+| 15542018 | Yakup KAYA   | Front-end Developer |
+| 195541073 | Abdullah Akpınar  | Test Engineer |
 
 ### Sprint 1 Sonuçları
 - Hedef: Proje için potansiyel Front-end frameworkleri ve Back-end teknolojilerini araştırmak ve değerlendirmek.
@@ -142,6 +145,9 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | Ali Kadir Bulut | Veri Setinin Ayrıştırılması ve Etiketlenmesi | 1 hafta |
 | Ercan Satık | Geliştirilen Algoritmanın Testi | 2 hafta  |
 | Ömer Faruk Aydemir | Proje İçin Gerekli Olan Logo Tasarımı | 3 Hafta |
+| 190542018 | Hakan Bahşiş   | Front-end Developer |
+| 15542018 | Yakup KAYA   | Front-end Developer |
+| 195541073 | Abdullah Akpınar  | Test Engineer |
 
 ### Sprint 2 Sonuçları
 - Hedef: Mermerin kalitesinin analiz edilebilmesi için eğitim , test ve doğrulama şeklinde ayrılan veri seti için Derin Öğrenme algoritması (CNN) kullanılarak geliştirilmesi.
@@ -160,6 +166,9 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | Ali Kadir Bulut | Lokal Ortamdaki Ürünün Testi  | 3 hafta |
 | Ercan Satık | Veritabanının Lokal Ortama Bağlanması | 3 hafta |
 | Ömer Faruk Aydemir | THS Seviyelerinin Dökümantasyonu | 3 hafta |
+| 190542018 | Hakan Bahşiş   | Front-end Developer |
+| 15542018 | Yakup KAYA   | Front-end Developer |
+| 195541073 | Abdullah Akpınar  | Test Engineer |
 
 ### Sprint 3 Sonuçları 
 - Hedef: Geliştirilmiş mermer analiz algoritmasının front-end tarafının geliştirilmesi, THS seviyelerinin dökümantasyonu, canlı ortamdaki ürünün testi ve veritabanının canlı ortama bağlanması.
@@ -176,6 +185,10 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | Gönenç Can Değirmencioğlu | Proje İçin SWOT Analizinin Yapılması | 3 Hafta |
 | Ali Kadir Bulut | Canlı Ortamdaki Projenin Fonksiyonel Testlerinin Yapılması | 2 hafta  |
 | Ercan Satık | Canlı Ortamdaki Projenin Fonksiyonel Olmayan Testlerin Yapılması | 2 hafta |
+| 190541086 | Ömer Faruk Aydemir | Web Developer|
+| 190542018 | Hakan Bahşiş   | Front-end Developer |
+| 15542018 | Yakup KAYA   | Front-end Developer |
+| 195541073 | Abdullah Akpınar  | Test Engineer |
 
 
 ### Sprint 4 Sonuçları  
