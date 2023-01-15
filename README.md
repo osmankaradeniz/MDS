@@ -134,6 +134,8 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 - Çıktılar: Front-end ve Back-end teknolojilerinin karşılaştırma raporu.
 - Sonuç: Karşılaştırma raporuna dayanarak hangi front-end ve back-end teknolojileri kullanılacağına karar veridi
 
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
+
 ## Sprint 2
 
 | Atama | Görev Tanımı  | Görev Süresi |
@@ -150,6 +152,8 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 - Çıktılar: Modelin Başarıyla Eğitilmesi, projenin logosunun belirlenmesi ve Host seçimi.
 
 
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
+
 ## Sprint 3
 
 | Atama | Görev Tanımı  | Görev Süresi |
@@ -163,7 +167,10 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 ### Sprint 3 Sonuçları 
 - Hedef: Geliştirilmiş mermer analiz algoritmasının front-end tarafının geliştirilmesi, THS seviyelerinin dökümantasyonu, canlı ortamdaki ürünün testi ve veritabanının canlı ortama bağlanması.
 - Görevlendirildi: Osman Karadeniz, Gönenç Can Değirmencioğlu, Ali Kadir Bulut, Ercan Satık, Ömer Faruk Aydemir
-- Çıktılar: Front-end tarafının geliştirilmesi, THS seviyelerinin dökümantasyonu, canlı ortamdaki ürünün testi ve veritabanının canlı ortama bağlanması.
+- Çıktılar: Front-end tarafının geliştirilmesi, THS seviyelerinin dökümantasyonu, canlı ortamdaki ürünün testi ve veritabanının canlı ortama bağlanması.7
+
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
+
 ## Sprint 4
 
 | Atama | Görev Tanımı  | Görev Süresi |
@@ -178,6 +185,8 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 - Hedef: Projenin tam entegrasyonu ve canlı ortama aktarma, SWOT analizi yapılması, canlı ortamdaki projenin fonksiyonel ve fonksiyonel olmayan testlerinin yapılması.
 - Görevlendirildi: Osman Karadeniz, Gönenç Can Değirmencioğlu, Ali Kadir Bulut, Ercan Satık
 - Çıktılar: Projenin tam entegrasyonu ve canlı ortama aktarma, SWOT analizi yapılması, canlı ortamdaki projenin fonksiyonel ve fonksiyonel olmayan testlerinin yapılması.
+
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 ## Projenin Kullanımı
 Mermer kalite tespit sistemini kullanmak için aşağıdaki adımları izleyin:
@@ -197,10 +206,16 @@ Farklı türdeki mermerlerin tanımlanması ve sınıflandırılması, genellikl
 Mermer kalitesi sınıflandırılmasının insanlar tarafından ve manuel şekilde yapılması oldukça zaman alıcı, hatalara fazlasıyla açık, aynı zamanda da güvenilir olmayan ve öznel bir süreçtir. 
 Bu süreci daha nesnel ve güvenilir, çok daha hızlı ve çok daha az insan müdahalesi gerektirecek şekilde otomatik hale dönüştüren bilgi teknolojilerine dayalı yaklaşımlar ve yöntemlere büyük ölçüde gereksinim vardır.
 Bu çalışmada; levha mermer resimlerini işleyerek altı farklı kalite tipine göre sınıflandıran bir derin öğrenme modeli geliştirmek amaçlanmıştır
+
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
+
 ## THS 2
 İlk olarak veri seti üreticiyle mermer görüntüleri üzerinde thresholding yöntemleriyle yaptığımız işlemlerde mermerler üzerinde bir nitelik çıkartmayı amaçladık ve bunu kısmen başardık. Veri seti üreticimiz Adaptive thresholding ve ADAPTIVE_THRESH_GAUSSIAN_C metodlarını kullanarak mermerlerin damarlarını daha belirgin hale getirmeyi amaçlamaktadır daha sonra görüntüler üzerinde renkleri ters çevirip damarları daha da belirgin hale getirdik ve eğittiğimiz model üzerinde mermer doğrulama işlemini başarıyla gerçekleştirdik aşağıda elde ettiğimiz görüntüyü görebilirsiniz.
 ![SSproject](https://github.com/0smanKaradeniz/MDS/blob/main/islenen/6-islenen.jpg)
 Kalite sınıflandırma işleminde mermer görüntüleri üzerinde çatlaklar, noktalar ve kırıklar baz alınarak elde edilen model %98.6 doğruluk ile çalışıp mermerlerin kalitesini ayırt etmede ileride önemli bir rol üstleneceğinden eminiz.
+
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
+
 ## THS 3
 ## THS 4
 
@@ -213,6 +228,9 @@ Projemizin geçtiği bazı testler aşağıda listelenmiştir.
 4. User Experience testi
 5. Veritabanı testi
 6. Oturum ve Çerez testi
+
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
+
 ## THS 6
 Projemiz test aşamalarını geçtikten sonra uygun çevresel ortamda testlerin doğruluğunu sağlamak ve projenin çevresel ortamda da aynı performans ve kalitede çalıştığını görmek adına deploy edilmiştir.
 Deploy edilen projenin farklı bilgisayarlarda da çalışmasının aynı olduğu gözlemlenmiştir. İnternet ortamında da çalışma mantalitesinden birşey eksilmeyen projemiz deployment ortamında da testleri başarı ile geçmştir.
@@ -222,12 +240,17 @@ Deploy edilen projenin farklı bilgisayarlarda da çalışmasının aynı olduğ
 3. Performans işlemleri
 4. Responsive uyumluluk
 5. İstikrarlı ve fonksiyonel çalışma
+
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
+
 ## THS 7
 
 ### Ana Sayfa
 
 Projemize ‘http://mds23.pythonanywhere.com’ adresinden ulaştıktan sonra aşağıdaki fotoğrafta olduğu gibi bir ana sayfa ile karşılaşıyoruz. Uygulamayı kullanabilmemiz için ‘Kayıt Ol’ butonundan sisteme kaydımızı gerçekleştirmeliyiz.
 ![ths-7.0]
+
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 ### Kayıt ve Giriş Ekranı
 
@@ -244,15 +267,21 @@ Sisteme kaydı yapılan, Microsoft’un e-mail sağlayıcısını kullanan kulla
 Linke tıklayıp ‘Hesap aktifleştirme başarılı!’ uyarısını gördükten sonra sisteme giriş yapabiliriz.
 ![ths-7.4]
 
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
+
 ### Sisteme İlk Bakış
 
 Sisteme giriş yaptıktan sonra bizi fotoğraftaki gibi bir ekran karşılıyor. Ekranın sol tarafında mermer görüntüleri için kullanacağımız modüller, sağ tarafta ise kullanıcı işlemlerini yapabileceğimiz bir profil logosu yer almakta. 
 ![ths-7.5]
 
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
+
 ### Kullanıcı İşlemleri
 
 Profil logosuna tıklayarak oturumumuzu kapatabilir, dilersek şifremizi güncelleyebiliriz.
 ![ths-7.6]
+
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 ### Modüllerin Kullanımı
 
@@ -262,12 +291,16 @@ Profil logosuna tıklayarak oturumumuzu kapatabilir, dilersek şifremizi güncel
 Uygun formatta dosyayı seçtikten sonra yükle butonuna tıklayarak sistemin çıktılarını görüntüleyebiliriz. (Yüklenilen dosyayı çıktılar ile mukayese edebilmek için görüntü örnek teşkil etmesi açısından koyulmuştur.)
 ![ths-7.8]
 
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
+
 ### Modüllerin çıktıları :
 
 ![ths-7.9]
 ![ths-7.10]
 ![ths-7.11]
 ![ths-7.12]
+
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 ## THS 8
 
