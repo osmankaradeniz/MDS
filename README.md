@@ -211,9 +211,21 @@ Deploy edilen projenin farklı bilgisayarlarda da çalışmasının aynı olduğ
 4. Responsive uyumluluk
 5. İstikrarlı ve fonksiyonel çalışma
 ## THS 7
-Ana Sayfa
+### Ana Sayfa
 Projemize ‘http://mds23.pythonanywhere.com’ adresinden ulaştıktan sonra aşağıdaki fotoğrafta olduğu gibi bir ana sayfa ile karşılaşıyoruz. Uygulamayı kullanabilmemiz için ‘Kayıt Ol’ butonundan sisteme kaydımızı gerçekleştirmeliyiz.
-![ths-7.0]: gray/0.png
+![ths-7.0]
+### Kayıt ve Giriş Ekranı
+Sisteme kayıt için gerekli bilgileri doldurduktan sonra ‘Kayıt Ol’ butonuna basmamız yeterli. Sisteme aynı e-mail adresiyle birden fazla kayıt oluşturulamaz ve e-mail adresi uygun formatta olmalıdır. 
+![ths-7.1]
+Bilgilerimizi doğru bir şekilde girip butona bastıktan sonra aşağıdaki gibi bir bildirim almamız gerekiyor. Bu aşamadan sonra sisteme kaydını yaptığımız e-mail adresimizi aktif etmemiz gerekiyor.
+![ths-7.2]
+Sisteme kaydı yapılan, Microsoft’un e-mail sağlayıcısını kullanan kullanıcılar onay için gönderilmiş maili gereksiz klasöründe görüntüleyebilirler. Diğer e-mail sağlayıcılarını kullanan kullanıcılar için bu durum söz konusu değildir. 
+![ths-7.3]
+Linke tıklayıp ‘Hesap aktifleştirme başarılı!’ uyarısını gördükten sonra sisteme giriş yapabiliriz.
+![ths-7.4]
+### Sisteme İlk Bakış
+Sisteme giriş yaptıktan sonra bizi fotoğraftaki gibi bir ekran karşılıyor. Ekranın sol tarafında mermer görüntüleri için kullanacağımız modüller, sağ tarafta ise kullanıcı işlemlerini yapabileceğimiz bir profil logosu yer almakta. 
+![ths-7.5]
 ## THS 8
 
 <!-- SWOT Analizi -->
