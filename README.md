@@ -219,6 +219,7 @@ Sisteme kayıt için gerekli bilgileri doldurduktan sonra ‘Kayıt Ol’ butonu
 ![ths-7.1]
 
 Bilgilerimizi doğru bir şekilde girip butona bastıktan sonra aşağıdaki gibi bir bildirim almamız gerekiyor. Bu aşamadan sonra sisteme kaydını yaptığımız e-mail adresimizi aktif etmemiz gerekiyor.
+
 ![ths-7.2]
 
 Sisteme kaydı yapılan, Microsoft’un e-mail sağlayıcısını kullanan kullanıcılar onay için gönderilmiş maili gereksiz klasöründe görüntüleyebilirler. Diğer e-mail sağlayıcılarını kullanan kullanıcılar için bu durum söz konusu değildir. 
