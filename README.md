@@ -238,10 +238,10 @@ Profil logosuna tıklayarak oturumumuzu kapatabilir, dilersek şifremizi güncel
 
 ### Modüllerin Kullanımı
 İhtiyacımız olan modülü ‘Modüller’ başlığı altından seçtikten sonra ‘Dosya Seç’ kısmından işlem yapmak istediğimiz dosyayı sisteme yüklüyoruz. Uygulama ‘png’, ‘jpg’ ve ‘jpeg’ görüntü formatlarını desteklemekle birlikte ‘avi’ ve ‘mp4’ türünde ki videolarla işlem yapabilmekte. Bu uzantıların haricinde bir dosya yüklediği takdirde sistem aşağıdaki gibi bir uyarı vermekte.
-![ths-7.6]
+![ths-7.7]
 
 Uygun formatta dosyayı seçtikten sonra yükle butonuna tıklayarak sistemin çıktılarını görüntüleyebiliriz. (Yüklenilen dosyayı çıktılar ile mukayese edebilmek için görüntü örnek teşkil etmesi açısından koyulmuştur.)
-![ths-7.7]
+![ths-7.8]
 
 ## THS 8
 
