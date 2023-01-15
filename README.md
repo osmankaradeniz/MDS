@@ -64,7 +64,7 @@ Yaptığınız yatırımları incelediğimde, yatırım yaptığınız tüm star
         <li><a href="#Sisteme-İlk-Bakış">Sisteme İlk Bakış</a></li>
         <li><a href="#Kullanıcı-İşlemleri">Kullanıcı İşlemleri</a></li>
         <li><a href="#Modüllerin-Kullanımı">Modüllerin Kullanımı</a></li>
-        <li><a href="#Modüllerin-çıktıları-:">Modüllerin Çıktıları</a></li>
+        <li><a href="#Modüllerin-çıktıları">Modüllerin Çıktıları</a></li>
         
         
       </ul>
@@ -293,7 +293,7 @@ Uygun formatta dosyayı seçtikten sonra yükle butonuna tıklayarak sistemin ç
 
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
-### Modüllerin çıktıları :
+### Modüllerin çıktıları
 
 ![ths-7.9]
 ![ths-7.10]
