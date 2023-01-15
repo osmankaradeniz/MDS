@@ -219,10 +219,13 @@ Sisteme kayıt için gerekli bilgileri doldurduktan sonra ‘Kayıt Ol’ butonu
 ![ths-7.1]
 Bilgilerimizi doğru bir şekilde girip butona bastıktan sonra aşağıdaki gibi bir bildirim almamız gerekiyor. Bu aşamadan sonra sisteme kaydını yaptığımız e-mail adresimizi aktif etmemiz gerekiyor.
 ![ths-7.2]
+
 Sisteme kaydı yapılan, Microsoft’un e-mail sağlayıcısını kullanan kullanıcılar onay için gönderilmiş maili gereksiz klasöründe görüntüleyebilirler. Diğer e-mail sağlayıcılarını kullanan kullanıcılar için bu durum söz konusu değildir. 
 ![ths-7.3]
+
 Linke tıklayıp ‘Hesap aktifleştirme başarılı!’ uyarısını gördükten sonra sisteme giriş yapabiliriz.
 ![ths-7.4]
+
 ### Sisteme İlk Bakış
 Sisteme giriş yaptıktan sonra bizi fotoğraftaki gibi bir ekran karşılıyor. Ekranın sol tarafında mermer görüntüleri için kullanacağımız modüller, sağ tarafta ise kullanıcı işlemlerini yapabileceğimiz bir profil logosu yer almakta. 
 ![ths-7.5]
