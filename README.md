@@ -217,9 +217,9 @@ Kalite sınıflandırma işleminde mermer görüntüleri üzerinde çatlaklar, n
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 ## THS 3
+Boş
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 ## THS 4
-
-## THS 5
 Projemizde veri seti doğrulaması için gerekli testler yapıldı. Veri setinde kullanılan mermerler için doğruluk oranı 98.7% ve üzeri olarak saptandı. Manuel testler sonucu ortaya çıkan bug'lar düzeltildi.
 Projemizin geçtiği bazı testler aşağıda listelenmiştir.
 1. Güvenlik testi
@@ -231,7 +231,7 @@ Projemizin geçtiği bazı testler aşağıda listelenmiştir.
 
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
-## THS 6
+## THS 5
 Projemiz test aşamalarını geçtikten sonra uygun çevresel ortamda testlerin doğruluğunu sağlamak ve projenin çevresel ortamda da aynı performans ve kalitede çalıştığını görmek adına deploy edilmiştir.
 Deploy edilen projenin farklı bilgisayarlarda da çalışmasının aynı olduğu gözlemlenmiştir. İnternet ortamında da çalışma mantalitesinden birşey eksilmeyen projemiz deployment ortamında da testleri başarı ile geçmştir.
 Çevresel ortam altında yapılan kontroller aşağıda listelenmiştir.
@@ -240,6 +240,10 @@ Deploy edilen projenin farklı bilgisayarlarda da çalışmasının aynı olduğ
 3. Performans işlemleri
 4. Responsive uyumluluk
 5. İstikrarlı ve fonksiyonel çalışma
+
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
+
+## THS 6
 
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
@@ -304,6 +308,9 @@ Uygun formatta dosyayı seçtikten sonra yükle butonuna tıklayarak sistemin ç
 
 ## THS 8
 
+BOŞ
+
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 <!-- SWOT Analizi -->
 ## SWOT Analizi
 
