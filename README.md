@@ -242,7 +242,8 @@ Profil logosuna tıklayarak oturumumuzu kapatabilir, dilersek şifremizi güncel
 
 Uygun formatta dosyayı seçtikten sonra yükle butonuna tıklayarak sistemin çıktılarını görüntüleyebiliriz. (Yüklenilen dosyayı çıktılar ile mukayese edebilmek için görüntü örnek teşkil etmesi açısından koyulmuştur.)
 ![ths-7.8]
-
+Modüllerin çıktıları :
+![ths-7.9]
 ## THS 8
 
 <!-- SWOT Analizi -->
