@@ -217,10 +217,14 @@ Deploy edilen projenin farklı bilgisayarlarda da çalışmasının aynı olduğ
 4. Responsive uyumluluk
 5. İstikrarlı ve fonksiyonel çalışma
 ## THS 7
+
 ### Ana Sayfa
+
 Projemize ‘http://mds23.pythonanywhere.com’ adresinden ulaştıktan sonra aşağıdaki fotoğrafta olduğu gibi bir ana sayfa ile karşılaşıyoruz. Uygulamayı kullanabilmemiz için ‘Kayıt Ol’ butonundan sisteme kaydımızı gerçekleştirmeliyiz.
 ![ths-7.0]
+
 ### Kayıt ve Giriş Ekranı
+
 Sisteme kayıt için gerekli bilgileri doldurduktan sonra ‘Kayıt Ol’ butonuna basmamız yeterli. Sisteme aynı e-mail adresiyle birden fazla kayıt oluşturulamaz ve e-mail adresi uygun formatta olmalıdır. 
 ![ths-7.1]
 
@@ -235,24 +239,30 @@ Linke tıklayıp ‘Hesap aktifleştirme başarılı!’ uyarısını gördükte
 ![ths-7.4]
 
 ### Sisteme İlk Bakış
+
 Sisteme giriş yaptıktan sonra bizi fotoğraftaki gibi bir ekran karşılıyor. Ekranın sol tarafında mermer görüntüleri için kullanacağımız modüller, sağ tarafta ise kullanıcı işlemlerini yapabileceğimiz bir profil logosu yer almakta. 
 ![ths-7.5]
 
 ### Kullanıcı İşlemleri
+
 Profil logosuna tıklayarak oturumumuzu kapatabilir, dilersek şifremizi güncelleyebiliriz.
 ![ths-7.6]
 
 ### Modüllerin Kullanımı
+
 İhtiyacımız olan modülü ‘Modüller’ başlığı altından seçtikten sonra ‘Dosya Seç’ kısmından işlem yapmak istediğimiz dosyayı sisteme yüklüyoruz. Uygulama ‘png’, ‘jpg’ ve ‘jpeg’ görüntü formatlarını desteklemekle birlikte ‘avi’ ve ‘mp4’ türünde ki videolarla işlem yapabilmekte. Bu uzantıların haricinde bir dosya yüklediği takdirde sistem aşağıdaki gibi bir uyarı vermekte.
 ![ths-7.7]
 
 Uygun formatta dosyayı seçtikten sonra yükle butonuna tıklayarak sistemin çıktılarını görüntüleyebiliriz. (Yüklenilen dosyayı çıktılar ile mukayese edebilmek için görüntü örnek teşkil etmesi açısından koyulmuştur.)
 ![ths-7.8]
+
 ### Modüllerin çıktıları :
+
 ![ths-7.9]
 ![ths-7.10]
 ![ths-7.11]
 ![ths-7.12]
+
 ## THS 8
 
 <!-- SWOT Analizi -->
