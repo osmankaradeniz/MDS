@@ -57,7 +57,7 @@ Yaptığınız yatırımları incelediğimde, yatırım yaptığınız tüm star
         <li><a href="#ths-5">THS-5</a></li>
         <li><a href="#ths-6">THS-6</a></li>
         <li>
-         <a href="#ths-7">THS 7-8</a>
+         <a href="#ths-7-8">THS 7-8</a>
        <ul>
         <li><a href="#Ana-Sayfa">Ana Sayfa</a></li>
         <li><a href="#Kayıt-ve-Giriş-Ekranı">Kayıt ve Giriş Ekranı</a></li>
@@ -262,7 +262,7 @@ Deploy edilen projenin farklı bilgisayarlarda da çalışmasının aynı olduğ
 
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
-## THS 7
+## THS 7-8
 
 ### Ana Sayfa
 
