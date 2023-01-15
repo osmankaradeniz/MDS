@@ -261,9 +261,9 @@ Fırat Üniversitesi Yazılım Mühendisliği Bölümü kurallarına uygun olara
 [ths-7.0]: gray/0.png
 [ths-7.1]: gray/1.png
 [ths-7.2]: gray/2.png
-[ths-7.3]: gray/3.png
-[ths-7.4]: gray/4.png
-[ths-7.5]: gray/5.png
+[ths-7.3]: gray/3-.png
+[ths-7.4]: gray/4-.png
+[ths-7.5]: gray/5-.png
 [ths-7.6]: gray/6.png
 [ths-7.7]: gray/7.png
 [ths-7.8]: gray/8.png
