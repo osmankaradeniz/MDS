@@ -321,11 +321,6 @@ Uygun formatta dosyayı seçtikten sonra yükle butonuna tıklayarak sistemin ç
 
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
-## THS 8
-
-BOŞ
-
-<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 <!-- SWOT Analizi -->
 ## SWOT Analizi
 
