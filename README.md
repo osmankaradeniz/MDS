@@ -231,6 +231,18 @@ Linke tıklayıp ‘Hesap aktifleştirme başarılı!’ uyarısını gördükte
 ### Sisteme İlk Bakış
 Sisteme giriş yaptıktan sonra bizi fotoğraftaki gibi bir ekran karşılıyor. Ekranın sol tarafında mermer görüntüleri için kullanacağımız modüller, sağ tarafta ise kullanıcı işlemlerini yapabileceğimiz bir profil logosu yer almakta. 
 ![ths-7.5]
+
+### Kullanıcı İşlemleri
+Profil logosuna tıklayarak oturumumuzu kapatabilir, dilersek şifremizi güncelleyebiliriz.
+![ths-7.5]
+
+### Modüllerin Kullanımı
+İhtiyacımız olan modülü ‘Modüller’ başlığı altından seçtikten sonra ‘Dosya Seç’ kısmından işlem yapmak istediğimiz dosyayı sisteme yüklüyoruz. Uygulama ‘png’, ‘jpg’ ve ‘jpeg’ görüntü formatlarını desteklemekle birlikte ‘avi’ ve ‘mp4’ türünde ki videolarla işlem yapabilmekte. Bu uzantıların haricinde bir dosya yüklediği takdirde sistem aşağıdaki gibi bir uyarı vermekte.
+![ths-7.6]
+
+Uygun formatta dosyayı seçtikten sonra yükle butonuna tıklayarak sistemin çıktılarını görüntüleyebiliriz. (Yüklenilen dosyayı çıktılar ile mukayese edebilmek için görüntü örnek teşkil etmesi açısından koyulmuştur.)
+![ths-7.7]
+
 ## THS 8
 
 <!-- SWOT Analizi -->
