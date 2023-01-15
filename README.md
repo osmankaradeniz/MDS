@@ -56,7 +56,13 @@ Yaptığınız yatırımları incelediğimde, yatırım yaptığınız tüm star
         <li><a href="#ths-4">THS-4</a></li>
         <li><a href="#ths-5">THS-5</a></li>
         <li><a href="#ths-6">THS-6</a></li>
-        <li><a href="#ths-7">THS-7</a></li>
+        <li>
+         <a href="#ths-7">THS-7</a>
+       <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+       </li>       
         <li><a href="#ths-8">THS-8</a></li>
       </ul>
     </li>
@@ -242,7 +248,7 @@ Profil logosuna tıklayarak oturumumuzu kapatabilir, dilersek şifremizi güncel
 
 Uygun formatta dosyayı seçtikten sonra yükle butonuna tıklayarak sistemin çıktılarını görüntüleyebiliriz. (Yüklenilen dosyayı çıktılar ile mukayese edebilmek için görüntü örnek teşkil etmesi açısından koyulmuştur.)
 ![ths-7.8]
-Modüllerin çıktıları :
+### Modüllerin çıktıları :
 ![ths-7.9]
 ![ths-7.10]
 ![ths-7.11]
