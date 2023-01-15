@@ -59,8 +59,14 @@ Yaptığınız yatırımları incelediğimde, yatırım yaptığınız tüm star
         <li>
          <a href="#ths-7">THS-7</a>
        <ul>
-        <li><a href="#Ana Sayfa">Ana Sayfa</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Ana-Sayfa">Ana Sayfa</a></li>
+        <li><a href="#Kayıt-ve-Giriş-Ekranı">Kayıt ve Giriş Ekranı</a></li>
+        <li><a href="#Sisteme-İlk-Bakış">Sisteme İlk Bakış</a></li>
+        <li><a href="#Kullanıcı-İşlemleri">Kullanıcı İşlemleri</a></li>
+        <li><a href="#Modüllerin-Kullanımı">Modüllerin Kullanımı</a></li>
+        <li><a href="#Modüllerin-çıktıları-:">Modüllerin Çıktıları</a></li>
+        
+        
       </ul>
        </li>       
         <li><a href="#ths-8">THS-8</a></li>
