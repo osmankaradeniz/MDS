@@ -191,6 +191,7 @@ Bu çalışmada; levha mermer resimlerini işleyerek altı farklı kalite tipine
 Kalite sınıflandırma işleminde mermer görüntüleri üzerinde çatlaklar, noktalar ve kırıklar baz alınarak elde edilen model %98.6 doğruluk ile çalışıp mermerlerin kalitesini ayırt etmede ileride önemli bir rol üstleneceğinden eminiz.
 ## THS 3
 ## THS 4
+
 ## THS 5
 Projemizde veri seti doğrulaması için gerekli testler yapıldı. Veri setinde kullanılan mermerler için doğruluk oranı 98.7% ve üzeri olarak saptandı. Manuel testler sonucu ortaya çıkan bug'lar düzeltildi.
 Projemizin geçtiği bazı testler aşağıda listelenmiştir.
@@ -210,6 +211,9 @@ Deploy edilen projenin farklı bilgisayarlarda da çalışmasının aynı olduğ
 4. Responsive uyumluluk
 5. İstikrarlı ve fonksiyonel çalışma
 ## THS 7
+Ana Sayfa
+Projemize ‘http://mds23.pythonanywhere.com’ adresinden ulaştıktan sonra aşağıdaki fotoğrafta olduğu gibi bir ana sayfa ile karşılaşıyoruz. Uygulamayı kullanabilmemiz için ‘Kayıt Ol’ butonundan sisteme kaydımızı gerçekleştirmeliyiz.
+![ths-7.0]: gray/0.png
 ## THS 8
 
 <!-- SWOT Analizi -->
@@ -242,3 +246,13 @@ Fırat Üniversitesi Yazılım Mühendisliği Bölümü kurallarına uygun olara
 
 <!-- lİNKLER -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[ths-7.0]: gray/0.png
+[ths-7.1]: gray/1.png
+[ths-7.2]: gray/2.png
+[ths-7.3]: gray/3.png
+[ths-7.4]: gray/4.png
+[ths-7.5]: gray/5.png
+[ths-7.6]: gray/6.png
+[ths-7.7]: gray/7.png
+[ths-7.8]: gray/8.png
+[ths-7.9]: gray/9.png
