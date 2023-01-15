@@ -244,6 +244,9 @@ Uygun formatta dosyayı seçtikten sonra yükle butonuna tıklayarak sistemin ç
 ![ths-7.8]
 Modüllerin çıktıları :
 ![ths-7.9]
+![ths-7.10]
+![ths-7.11]
+![ths-7.12]
 ## THS 8
 
 <!-- SWOT Analizi -->
@@ -286,3 +289,6 @@ Fırat Üniversitesi Yazılım Mühendisliği Bölümü kurallarına uygun olara
 [ths-7.7]: gray/7.png
 [ths-7.8]: gray/8.png
 [ths-7.9]: gray/9.png
+[ths-7.10]: gray/10.png
+[ths-7.11]: gray/11.png
+[ths-7.12]: gray/12.png
