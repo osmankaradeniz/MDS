@@ -145,9 +145,9 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | Ali Kadir Bulut | Veri Setinin Ayrıştırılması ve Etiketlenmesi | 1 hafta |
 | Ercan Satık | Veritabanının oluşturulması ve test edilmesi | 2 hafta  |
 | Ömer Faruk Aydemir | Proje İçin Gerekli Olan Logo Tasarımı | 3 Hafta |
-| Hakan Bahşiş |    | API'lerin oluşturulması ve test edilmesi |
-| Yakup KAYA  |   | Front-end Developer |
-| Abdullah Akpınar  |  | Test Engineer |
+| Hakan Bahşiş |  API'lerin oluşturulması ve test edilmesi   | |
+| Yakup KAYA  | Front-end Developer  |  |
+| Abdullah Akpınar  | Test Engineer |  |
 
 
 ### Sprint 2 Sonuçları
@@ -167,9 +167,9 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | Ali Kadir Bulut | Lokal Ortamdaki Ürünün Testi  | 3 hafta |
 | Ercan Satık | Veritabanının Lokal Ortama Bağlanması | 3 hafta |
 | Ömer Faruk Aydemir | THS Seviyelerinin Dökümantasyonu | 3 hafta |
-| Hakan Bahşiş |    | Sistemin kalibrasyonunun yapılması |
-| Yakup KAYA  |   | Front-end geliştirme ve test edilmesi |
-| Abdullah Akpınar  |  | Sistemin test edilmesi |
+| Hakan Bahşiş |  Sistemin kalibrasyonunun yapılması  |  |
+| Yakup KAYA  | Front-end geliştirme ve test edilmes  | i |
+| Abdullah Akpınar  | Sistemin test edilmesi   ||
 
 
 ### Sprint 3 Sonuçları 
