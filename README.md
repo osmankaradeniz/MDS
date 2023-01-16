@@ -119,10 +119,10 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| Osman Karadeniz   | potansiyel Front-end frameworkleri araştırmak ve değerlendirmek| 3 hafta |
-| Gönenç Can Değirmencioğlu | potansiyel Back-end teknolojilerini araştırmak ve değerlendirmek  | 3 hafta |
-| Ali Kadir Bulut | - | - |
-| Ercan Satık | Veri setlerinin toplanması | 3 hafta |
+| Osman Karadeniz   | Proje planlamasının yapılması ve gerekli araçların ve yazılımların seçimi | 3 hafta |
+| Gönenç Can Değirmencioğlu |  Sistemin ağ yapısının tasarlanması ve kurulumu  | 3 hafta |
+| Ali Kadir Bulut | QA stratejilerinin belirlenmesi ve test senaryolarının oluşturulması | - |
+| Ercan Satık |Veritabanı tasarımının yapılması ve kurulumunun gerçekleştirilmesi | 3 hafta |
 | Ömer Faruk Aydemir |Olası firmalar ile görüşmeler  | 3 hafta |
 | Hakan Bahşiş |    | Front-end Developer |
 | Yakup KAYA  |   | Front-end Developer |
@@ -140,12 +140,12 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| Osman Karadeniz   | Mermer Kalite Analizi İçin İhtiyaç Duyulan Algoritmanın Geliştirilmesi| 3 hafta  |
+| Osman Karadeniz   | Mermer Kalite Analizi İçin İhtiyaç Duyulan Algoritmanın Geliştirilmesi ve veritabanı ile entegrasyonunun sağlanması | 3 hafta  |
 | Gönenç Can Değirmencioğlu | Projenin Çalışabileceği Hostların Araştırılması | 3 hafta  |
 | Ali Kadir Bulut | Veri Setinin Ayrıştırılması ve Etiketlenmesi | 1 hafta |
-| Ercan Satık | Geliştirilen Algoritmanın Testi | 2 hafta  |
+| Ercan Satık | Veritabanının oluşturulması ve test edilmesi | 2 hafta  |
 | Ömer Faruk Aydemir | Proje İçin Gerekli Olan Logo Tasarımı | 3 Hafta |
-| Hakan Bahşiş |    | Front-end Developer |
+| Hakan Bahşiş |    | API'lerin oluşturulması ve test edilmesi |
 | Yakup KAYA  |   | Front-end Developer |
 | Abdullah Akpınar  |  | Test Engineer |
 
@@ -162,14 +162,14 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| Osman Karadeniz   | Geliştirilmiş Olunan Mermer Analiz Algoritması İçin Front-end tarafının Geliştirilmesi| 3 hafta |
+| Osman Karadeniz   | Geliştirilmiş Olunan Mermer Analiz Algoritması İçin Web arayüzünün tasarımının yapılması ve geliştirilmesi| 3 hafta |
 | Gönenç Can Değirmencioğlu | THS Seviyelerinin Dökümantasyonu | 3 hafta |
 | Ali Kadir Bulut | Lokal Ortamdaki Ürünün Testi  | 3 hafta |
 | Ercan Satık | Veritabanının Lokal Ortama Bağlanması | 3 hafta |
 | Ömer Faruk Aydemir | THS Seviyelerinin Dökümantasyonu | 3 hafta |
-| Hakan Bahşiş |    | Front-end Developer |
-| Yakup KAYA  |   | Front-end Developer |
-| Abdullah Akpınar  |  | Test Engineer |
+| Hakan Bahşiş |    | Sistemin kalibrasyonunun yapılması |
+| Yakup KAYA  |   | Front-end geliştirme ve test edilmesi |
+| Abdullah Akpınar  |  | Sistemin test edilmesi |
 
 
 ### Sprint 3 Sonuçları 
@@ -187,10 +187,10 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | Gönenç Can Değirmencioğlu | Proje İçin SWOT Analizinin Yapılması | 3 Hafta |
 | Ali Kadir Bulut | Canlı Ortamdaki Projenin Fonksiyonel Testlerinin Yapılması | 2 hafta  |
 | Ercan Satık | Canlı Ortamdaki Projenin Fonksiyonel Olmayan Testlerin Yapılması | 2 hafta |
-| Ömer Faruk Aydemir |  | Web Developer|
-| Hakan Bahşiş |    | Front-end Developer |
-| Yakup KAYA  |   | Front-end Developer |
-| Abdullah Akpınar  |  | Test Engineer |
+| Ömer Faruk Aydemir | Sistemin kalibrasyonunun yapılması ||
+| Hakan Bahşiş |  Front-end Developer  |  |
+| Yakup KAYA  |  Final testlerin yapılması ve raporlaması |  |
+| Abdullah Akpınar  | Sistemin test edilmesi ve hata raporlarının oluşturulması |  |
 
 
 
