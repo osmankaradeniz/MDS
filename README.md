@@ -117,7 +117,8 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 #
 
 ```
-VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık ) 2. Sprint sıralrında proje geliştirimine katılmak için birlikte çalışmalara başlamıştır ve vize sınavı sonrasında aramıza katılmıştır. 
+VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık )
+2. Sprint sıralrında proje geliştirimine katılmak için birlikte çalışmalara başlamıştır ve vize sınavı sonrasında aramıza katılmıştır. 
 ```
 
 ## Sprint 1
