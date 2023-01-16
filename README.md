@@ -115,6 +115,8 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | 15542018 | Yakup KAYA   | Front-end Developer |
 | 195541073 | Abdullah Akpınar  | Test Engineer |
 #
+
+VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık ) 2. Sprint sıralrında proje geliştirimine katılmak için görüşmeler başlamıştır ve Vize sonrasında aramıza katılmıştır.
 ## Sprint 1
 
 | Atama | Görev Tanımı  | Görev Süresi |
