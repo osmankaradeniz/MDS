@@ -116,23 +116,23 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | 195541073 | Abdullah Akpınar  | Test Engineer |
 #
 
-VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık ) 2. Sprint sıralrında proje geliştirimine katılmak için görüşmeler başlamıştır ve Vize sonrasında aramıza katılmıştır.
+VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık ) 2. Sprint sıralrında proje geliştirimine katılmak için birlikte çalışmalara başlamıştır ve vize sınavı sonrasında aramıza katılmıştır.
 ## Sprint 1
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
 | Osman Karadeniz   | Proje planlamasının yapılması ve gerekli araçların ve yazılımların seçimi | 3 hafta |
 | Gönenç Can Değirmencioğlu |  Sistemin ağ yapısının tasarlanması ve kurulumu  | 3 hafta |
-| Ali Kadir Bulut | QA stratejilerinin belirlenmesi ve test senaryolarının oluşturulması | - |
-| Ercan Satık |Veritabanı tasarımının yapılması ve kurulumunun gerçekleştirilmesi | 3 hafta |
+| Ali Kadir Bulut |- | - |
+| Ercan Satık |-| - |
 | Ömer Faruk Aydemir |Olası firmalar ile görüşmeler  | 3 hafta |
-| Hakan Bahşiş |    | Front-end Developer |
-| Yakup KAYA  |   | Front-end Developer |
-| Abdullah Akpınar  |  | Test Engineer |
+| Hakan Bahşiş |  Veri Setinin Ayrıştırılması ve Etiketlenmesi  | 3 hafta    |
+| Yakup KAYA  | Kullanılacak Olan Front-end teknolojilerinin araştırılması ve prototip çıkarımı  |3 hafta |
+| Abdullah Akpınar  | Test ortamı için gerekli olan setupın araştırılması ve uygulaması  | 3 hafta  |
 
 ### Sprint 1 Sonuçları
 - Hedef: Proje için potansiyel Front-end frameworkleri ve Back-end teknolojilerini araştırmak ve değerlendirmek.
-- Görevlendirildi: Osman Karadeniz, Gönenç Can Değirmencioğlu, Ercan Satık, Ali Kadir Bulut,Ömer Faruk Aydemir
+- Görevlendirildi: Osman Karadeniz, Gönenç Can Değirmencioğlu, Ömer Faruk Aydemir
 - Çıktılar: Front-end ve Back-end teknolojilerinin karşılaştırma raporu.
 - Sonuç: Karşılaştırma raporuna dayanarak hangi front-end ve back-end teknolojileri kullanılacağına karar veridi
 
@@ -144,12 +144,12 @@ VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık ) 2. Sprint
 | :-----: | :---: | :---: |
 | Osman Karadeniz   | Mermer Kalite Analizi İçin İhtiyaç Duyulan Algoritmanın Geliştirilmesi ve veritabanı ile entegrasyonunun sağlanması | 3 hafta  |
 | Gönenç Can Değirmencioğlu | Projenin Çalışabileceği Hostların Araştırılması | 3 hafta  |
-| Ali Kadir Bulut | Veri Setinin Ayrıştırılması ve Etiketlenmesi | 1 hafta |
-| Ercan Satık | Veritabanının oluşturulması ve test edilmesi | 2 hafta  |
+| Ali Kadir Bulut |QA stratejilerinin belirlenmesi ve test senaryolarının oluşturulması | 1 hafta |
+| Ercan Satık | Veritabanının oluşturulması ve test edilmesi | 1 hafta  |
 | Ömer Faruk Aydemir | Proje İçin Gerekli Olan Logo Tasarımı | 3 Hafta |
-| Hakan Bahşiş |  API'lerin oluşturulması ve test edilmesi   | |
-| Yakup KAYA  | Front-end Developer  |  |
-| Abdullah Akpınar  | Test Engineer |  |
+| Hakan Bahşiş |  API'lerin oluşturulması ve test edilmesi   | 3 hafta |
+| Yakup KAYA  | Front-end Developer  | 3 hafta |
+| Abdullah Akpınar  | Test Engineer | 3 hafta |
 
 
 ### Sprint 2 Sonuçları
