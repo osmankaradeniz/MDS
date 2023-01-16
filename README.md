@@ -169,9 +169,9 @@ VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık ) 2. Sprint
 | Ali Kadir Bulut | Lokal Ortamdaki Ürünün Testi  | 3 hafta |
 | Ercan Satık | Veritabanının Lokal Ortama Bağlanması | 3 hafta |
 | Ömer Faruk Aydemir | THS Seviyelerinin Dökümantasyonu | 3 hafta |
-| Hakan Bahşiş |  Sistemin kalibrasyonunun yapılması  |  |
-| Yakup KAYA  | Front-end geliştirme ve test edilmes  | i |
-| Abdullah Akpınar  | Sistemin test edilmesi   ||
+| Hakan Bahşiş |  Sistemin kalibrasyonunun yapılması  | 2 hafta  |
+| Yakup KAYA  | Front-end geliştirme ve test edilmesi  | 3 hafta  |
+| Abdullah Akpınar  | Sistemin test edilmesi   |1 hafta |
 
 
 ### Sprint 3 Sonuçları 
@@ -189,10 +189,10 @@ VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık ) 2. Sprint
 | Gönenç Can Değirmencioğlu | Proje İçin SWOT Analizinin Yapılması | 3 Hafta |
 | Ali Kadir Bulut | Canlı Ortamdaki Projenin Fonksiyonel Testlerinin Yapılması | 2 hafta  |
 | Ercan Satık | Canlı Ortamdaki Projenin Fonksiyonel Olmayan Testlerin Yapılması | 2 hafta |
-| Ömer Faruk Aydemir | Sistemin kalibrasyonunun yapılması ||
-| Hakan Bahşiş |  Front-end Developer  |  |
-| Yakup KAYA  |  Final testlerin yapılması ve raporlaması |  |
-| Abdullah Akpınar  | Sistemin test edilmesi ve hata raporlarının oluşturulması |  |
+| Ömer Faruk Aydemir | Sistemin kalibrasyonunun yapılması |1 hafta |
+| Hakan Bahşiş |  Uygulamanın GUI gelişimi için son kullanıcılar ile iletişime geçilmesi  | 2 hafta |
+| Yakup KAYA  |  Final testlerin yapılması ve raporlaması | 2 hafta  |
+| Abdullah Akpınar  | Sistemin test edilmesi ve hata raporlarının oluşturulması | 3 hafta |
 
 
 
