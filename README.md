@@ -125,11 +125,11 @@ VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık )
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| Osman Karadeniz   | Proje planlamasının yapılması ve gerekli araçların ve yazılımların seçimi | 3 hafta |
-| Gönenç Can Değirmencioğlu |  Sistemin ağ yapısının tasarlanması ve kurulumu  | 3 hafta |
+| Osman Karadeniz   | Proje Planlaması, Gerekli Araçların ve Yazılımların Seçimi | 3 hafta |
+| Gönenç Can Değirmencioğlu |  Sistemin Ağ Yapısının Tasarlanması ve Kurulumu  | 3 hafta |
 | Ali Kadir Bulut |- | - |
 | Ercan Satık |-| - |
-| Ömer Faruk Aydemir |Olası Fİrmalar ile Görüşmelerin Gerçekleştirilmesi | 3 hafta |
+| Ömer Faruk Aydemir |Olası Firmalar ile Görüşmelerin Gerçekleştirilmesi | 3 hafta |
 | Hakan Bahşiş | Kullanılacak Olan API'ların Araştırılması ve Karar Verilmesi  | 3 hafta |
 | Yakup KAYA  | Kullanılacak Olan Front-end Teknolojilerinin Araştırılması ve Prototip Çıkarımı  |3 hafta |
 | Abdullah Akpınar  | Test ortamı İçin Gerekli Olan Setupın Araştırılması ve Uygulaması  | 3 hafta  |
