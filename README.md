@@ -104,7 +104,7 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 - Her Sprint 3 haftadan oluşur
 - Her tablo bir sprint'i ifade eder.
 
-| Okul Numarası | Adı Soyadı | Yetkinlik | Proje Geliştirimi | Notlandırma|
+| Okul Numarası | Adı Soyadı | Yetkinlik | Proje Geliştirimi | Notlandırma |
 | :-----:  | :-----: | :---: |  :-----: | :---: | :---: |
 | 190542012 | Osman Karadeniz | Full Stack Developer - Scrum Master:| Projenin Back-end Tarafının Geliştirilmesi ve Ekip Koordinasyonlarının Sağlanması. Projemim Entegrasyonu. | AA |
 | 190541090 | Gönenç Can Değirmencioğlu | Network Engineer:| Sistemin Canlı Ortama Alınması için Kurulumu ve Çalışan Sistemin Güvenliğininin Sağlanması|BA|
