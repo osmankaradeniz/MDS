@@ -130,7 +130,7 @@ VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık )
 | Ali Kadir Bulut |- | - |
 | Ercan Satık |-| - |
 | Ömer Faruk Aydemir |Olası firmalar ile görüşmeler  | 3 hafta |
-| Hakan Bahşiş |  Veri Setinin Ayrıştırılması ve Etiketlenmesi  | 3 hafta    |
+| Hakan Bahşiş | Kullanılacak olan API'ların araştırılması ve karar verilmesi  | 3 hafta    |
 | Yakup KAYA  | Kullanılacak Olan Front-end teknolojilerinin araştırılması ve prototip çıkarımı  |3 hafta |
 | Abdullah Akpınar  | Test ortamı için gerekli olan setupın araştırılması ve uygulaması  | 3 hafta  |
 
@@ -149,7 +149,7 @@ VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık )
 | Osman Karadeniz   | Mermer Kalite Analizi İçin İhtiyaç Duyulan Algoritmanın Geliştirilmesi ve veritabanı ile entegrasyonunun sağlanması | 3 hafta  |
 | Gönenç Can Değirmencioğlu | Projenin Çalışabileceği Hostların Araştırılması | 3 hafta  |
 | Ali Kadir Bulut |QA stratejilerinin belirlenmesi ve test senaryolarının oluşturulması | 1 hafta |
-| Ercan Satık | Veritabanının oluşturulması ve test edilmesi | 1 hafta  |
+| Ercan Satık |  Veri Setinin Ayrıştırılması ve Etiketlenmesi | 1 hafta  |
 | Ömer Faruk Aydemir | Proje İçin Gerekli Olan Logo Tasarımı | 3 Hafta |
 | Hakan Bahşiş |  API'lerin oluşturulması ve test edilmesi   | 3 hafta |
 | Yakup KAYA  | Front-end Developer  | 3 hafta |
