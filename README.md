@@ -35,7 +35,7 @@ Yaptığınız yatırımları incelediğimde, yatırım yaptığınız tüm star
     <li>
       <a href="#Proje-Hakkında">Proje Hakkında</a>
       <ul>
-        <li><a href="#Kullanılan-Teknolijiler">Kullanılan Teknolojiler</a></li>
+        <li><a href="#Kullanılan Teknolojiler">Kullanılan Teknolojiler</a></li>
       </ul>
     </li>
     <li>
