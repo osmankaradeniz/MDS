@@ -48,7 +48,7 @@ Yaptığınız yatırımları incelediğimde, yatırım yaptığınız tüm star
       </ul>
     </li>
    <li>
-      <a href="#THS">Teknoloji Hazırlık Seviyeleri</a>
+      <a href="#Teknoloji-Hazırlık-Seviyeleri">Teknoloji Hazırlık Seviyeleri</a>
       <ul>
         <li><a href="#ths-1">THS-1</a></li>
         <li><a href="#ths-2">THS-2</a></li>
