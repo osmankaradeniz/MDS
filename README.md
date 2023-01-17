@@ -105,7 +105,7 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 - Her tablo bir sprint'i ifade eder.
 
 | Okul Numarası | Adı Soyadı  | Yetkinlik | Notlandırma|
-| :-----:  | :-----: | :---: | :---: |
+| :-----:  | :-----: | :---: | :---: | :---: |
 | 190542012 | Osman Karadeniz | Full Stack Developer - Scrum Master: Projenin Back-end Tarafının Geliştirilmesi ve Ekip Koordinasyonlarının Sağlanması. Projemim Entegrasyonu. | AA |
 | 190541090 | Gönenç Can Değirmencioğlu | Network Engineer: Sistemin Canlı Ortama Alınması için Kurulumu ve Çalışan Sistemin Güvenliğininin Sağlanması|BA|
 | 200541083 | Ali Kadir Bulut | QA Engineer: Yapılan Testlerin Doğruluğunun Onaylanması ve Yapılan Değişikliklerin Takım Liderine Verilmeden Önce Kontrol Edilmesi |BA|
@@ -214,7 +214,7 @@ Mermer kalite tespit sistemini kullanmak için aşağıdaki adımları izleyin:
 2. Cihazınızdan bir mermer görüntüsü seçmek için 'Dosya Seç' düğmesine tıklayın.
 3. Görüntüyü yüklemek ve kalite analiz sürecini başlatmak için 'Gönder' düğmesine tıklayın.
 4. Sistem görüntüyü işleyecek ve ortaya çıkan kalite puanını ve raporu web sayfasında gösterecektir.
-5. Başka misketleri analiz etmek için 2-4 arası adımları tekrarlayın.
+5. Başka  analiz etmek için 2-4 arası adımları tekrarlayın.
 Sistemin tek tek mermerlerin yüksek kaliteli görüntüleri için optimize edildiğini lütfen unutmayın. En iyi sonuçları elde etmek için, bilyenin iyi aydınlatılmış ve odakta olduğundan ve görüntünün başka nesneler veya arka planlar içermediğinden emin olun. Sistem, kısmen örtülü olan veya karmaşık desenlere veya yüzey dokularına sahip olan mermerleri doğru bir şekilde analiz edemeyebilir.
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
@@ -236,7 +236,13 @@ Kalite sınıflandırma işleminde mermer görüntüleri üzerinde çatlaklar, n
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 ## THS 3
-Boş
+Mermer endüstrisinde oluşabilen anlaşmazlıkları en aza indirebilecek şekilde, mermer üzerindeki desenlerde yapay zeka tekniklerini kullanarak matematiksel işlemler ile mermerlerin birbirinden ayırt edip, her mermerin özniteliklerini çıkararak mermer doğruluğunu en az bir uzman kadar yapabilecek bir model ortaya koyduk. 
+
+<img src="https://raw.githubusercontent.com/hakanbahsis/MDS/patch-1/visne.jpg" align="center" width="850" height="550">
+
+<p align="center"> <b>Mermer fotoğrafının işlemden sonraki çıktısı</b>  </p>
+
+
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 ## THS 4
