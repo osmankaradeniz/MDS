@@ -106,8 +106,7 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 
 | Okul Numarası | Adı Soyadı  | Yetkinlik |
 | :-----:  | :-----: | :---: | 
-| 190542012 | Osman Karadeniz | Full Stack Developer - Scrum Master
-Projenin Back-end tarfının geliştirilmesi ve ekip koordinasyonlarının sağlanması. Proje için geliştirilen kodların entegrasyonu. |
+| 190542012 | Osman Karadeniz | Full Stack Developer - Scrum Master Projenin Back-end tarfının geliştirilmesi ve ekip koordinasyonlarının sağlanması. Proje için geliştirilen kodların entegrasyonu. |
 | 190541090 | Gönenç Can Değirmencioğlu | Network Engineer|
 | 200541083 | Ali Kadir Bulut | QA Engineer |
 | 200541306 | Ercan Satık   | Database Developer |
