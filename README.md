@@ -112,7 +112,7 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | 200541306 | Ercan Satık   | Database Developer: Sistem için gerekli olan veri tabanının oluşturulması ve eğitilecek olan verilerin eğitime hazır hale getirilmesi | |
 | 190541086 | Ömer Faruk Aydemir | Web Developer: Front-end geliştirim aşamalarının takibi olası yatırımı alımı için girişimlerin sağlanması ve proje dokümantasyonu. | |
 | 190542018 | Hakan Bahşiş   | Front-end Developer: Sistemin Entegrasyon edilirken kullanılacak olan teknolojilerin belirlenmesi ve sistemi canlıya alınması | |
-| 15542018 | Yakup KAYA   | Front-end Developer Web Arayüzü Geliştiriminin Sağlanması ve 
+| 15542018 | Yakup KAYA   | Front-end Developer Web Arayüzü Geliştiriminin Sağlanması ve | |
 | 195541073 | Abdullah Akpınar  | Test Engineer | |
 #
 
