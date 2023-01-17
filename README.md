@@ -104,16 +104,16 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 - Her Sprint 3 haftadan oluşur
 - Her tablo bir sprint'i ifade eder.
 
-| Okul Numarası | Adı Soyadı  | Yetkinlik |
+| Okul Numarası | Adı Soyadı  | Yetkinlik | Notlandırma|
 | :-----:  | :-----: | :---: | 
-| 190542012 | Osman Karadeniz | Full Stack Developer - Scrum Master: Projenin Back-end tarfının geliştirilmesi ve ekip koordinasyonlarının sağlanması. Proje için geliştirilen kodların entegrasyonu. |
-| 190541090 | Gönenç Can Değirmencioğlu | Network Engineer: Sistemin canlı ortama alınması için kurulumu ve çalışan sistemin güvenliğininin sağlanması|
-| 200541083 | Ali Kadir Bulut | QA Engineer Yapılan testlerin doğruluğunun onaylanması ve yapılan değişikliklerin takım liderine verilmeden önce kontrol edilmesi |
-| 200541306 | Ercan Satık   | Database Developer Sistem için gerekli olan veri tabanının oluşturulması ve eğitilecek olan verilerin eğitime hazır hale getirilmesi |
-| 190541086 | Ömer Faruk Aydemir | Web Developer Front-end geliştirim aşamalarının takibi ve olası yatırımı alımı için girişimlerin sağlanması |
-| 190542018 | Hakan Bahşiş   | Front-end Developer |
-| 15542018 | Yakup KAYA   | Front-end Developer |
-| 195541073 | Abdullah Akpınar  | Test Engineer |
+| 190542012 | Osman Karadeniz | Full Stack Developer - Scrum Master: Projenin Back-end tarfının geliştirilmesi ve ekip koordinasyonlarının sağlanması. Proje için geliştirilen kodların entegrasyonu. | AA |
+| 190541090 | Gönenç Can Değirmencioğlu | Network Engineer: Sistemin canlı ortama alınması için kurulumu ve çalışan sistemin güvenliğininin sağlanması| |
+| 200541083 | Ali Kadir Bulut | QA Engineer: Yapılan testlerin doğruluğunun onaylanması ve yapılan değişikliklerin takım liderine verilmeden önce kontrol edilmesi | |
+| 200541306 | Ercan Satık   | Database Developer: Sistem için gerekli olan veri tabanının oluşturulması ve eğitilecek olan verilerin eğitime hazır hale getirilmesi | |
+| 190541086 | Ömer Faruk Aydemir | Web Developer: Front-end geliştirim aşamalarının takibi olası yatırımı alımı için girişimlerin sağlanması ve proje dokümantasyonu. | |
+| 190542018 | Hakan Bahşiş   | Front-end Developer: Sistemin Entegrasyon edilirken kullanılacak olan teknolojilerin belirlenmesi ve sistemi canlıya alınması | |
+| 15542018 | Yakup KAYA   | Front-end Developer Web Arayüzü Geliştiriminin Sağlanması ve 
+| 195541073 | Abdullah Akpınar  | Test Engineer | |
 #
 
 ```
@@ -129,10 +129,10 @@ VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık )
 | Gönenç Can Değirmencioğlu |  Sistemin ağ yapısının tasarlanması ve kurulumu  | 3 hafta |
 | Ali Kadir Bulut |- | - |
 | Ercan Satık |-| - |
-| Ömer Faruk Aydemir |Olası firmalar ile görüşmeler  | 3 hafta |
-| Hakan Bahşiş | Kullanılacak olan API'ların araştırılması ve karar verilmesi  | 3 hafta    |
-| Yakup KAYA  | Kullanılacak Olan Front-end teknolojilerinin araştırılması ve prototip çıkarımı  |3 hafta |
-| Abdullah Akpınar  | Test ortamı için gerekli olan setupın araştırılması ve uygulaması  | 3 hafta  |
+| Ömer Faruk Aydemir |Olası Fİrmalar ile Görüşmelerin Gerçekleştirilmesi | 3 hafta |
+| Hakan Bahşiş | Kullanılacak Olan API'ların Araştırılması ve Karar Verilmesi  | 3 hafta |
+| Yakup KAYA  | Kullanılacak Olan Front-end Teknolojilerinin Araştırılması ve Prototip Çıkarımı  |3 hafta |
+| Abdullah Akpınar  | Test ortamı İçin Gerekli Olan Setupın Araştırılması ve Uygulaması  | 3 hafta  |
 
 ### Sprint 1 Sonuçları
 - Hedef: Proje için potansiyel Front-end frameworkleri ve Back-end teknolojilerini araştırmak ve değerlendirmek.
@@ -148,12 +148,12 @@ VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık )
 | :-----: | :---: | :---: |
 | Osman Karadeniz   | Mermer Kalite Analizi İçin İhtiyaç Duyulan Algoritmanın Geliştirilmesi ve veritabanı ile entegrasyonunun sağlanması | 3 hafta  |
 | Gönenç Can Değirmencioğlu | Projenin Çalışabileceği Hostların Araştırılması | 3 hafta  |
-| Ali Kadir Bulut |QA stratejilerinin belirlenmesi ve test senaryolarının oluşturulması | 1 hafta |
+| Ali Kadir Bulut |QA Stratejilerinin Belirlenmesi ve Test Senaryolarının Oluşturulması | 1 hafta |
 | Ercan Satık |  Veri Setinin Ayrıştırılması ve Etiketlenmesi | 1 hafta  |
 | Ömer Faruk Aydemir | Proje İçin Gerekli Olan Logo Tasarımı | 3 Hafta |
-| Hakan Bahşiş |  API'lerin oluşturulması ve test edilmesi   | 3 hafta |
-| Yakup KAYA  | Front-end Developer  | 3 hafta |
-| Abdullah Akpınar  | Test Engineer | 3 hafta |
+| Hakan Bahşiş |  API'lerin Oluşturulması ve Test Edilmesi   | 3 hafta |
+| Yakup KAYA  | Kullanılacak Olan | 3 hafta |
+| Abdullah Akpınar  | Olulturulan Test Seneryolarının Gerçekleştirilmesi | 3 hafta |
 
 
 ### Sprint 2 Sonuçları
@@ -168,14 +168,14 @@ VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık )
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| Osman Karadeniz   | Geliştirilmiş Olunan Mermer Analiz Algoritması İçin Web arayüzünün tasarımının yapılması ve geliştirilmesi| 3 hafta |
+| Osman Karadeniz   | Geliştirilmiş Olunan Mermer Analiz Algoritması İçin Web Arayüzünün Tasarımının Yapılması ve Geliştirilmesi| 3 hafta |
 | Gönenç Can Değirmencioğlu | THS Seviyelerinin Dökümantasyonu | 3 hafta |
-| Ali Kadir Bulut | Lokal Ortamdaki Ürünün Testi  | 3 hafta |
+| Ali Kadir Bulut | Lokal Ortamdaki Ürünün Testi Yapılan Ürünün Kalite Güvencesini Doğrulama  | 3 hafta |
 | Ercan Satık | Veritabanının Lokal Ortama Bağlanması | 3 hafta |
 | Ömer Faruk Aydemir | THS Seviyelerinin Dökümantasyonu | 3 hafta |
-| Hakan Bahşiş |  Sistemin kalibrasyonunun yapılması  | 2 hafta  |
-| Yakup KAYA  | Front-end geliştirme ve test edilmesi  | 3 hafta  |
-| Abdullah Akpınar  | Sistemin test edilmesi   |1 hafta |
+| Hakan Bahşiş |  Sistemin Kalibrasyonunun Yapılması  | 2 hafta  |
+| Yakup KAYA  | Front-end Geliştirme ve Test Edilmesi  | 3 hafta  |
+| Abdullah Akpınar  | Sistemin Test Edilmesi   |1 hafta |
 
 
 ### Sprint 3 Sonuçları 
@@ -193,10 +193,10 @@ VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık )
 | Gönenç Can Değirmencioğlu | Proje İçin SWOT Analizinin Yapılması | 3 Hafta |
 | Ali Kadir Bulut | Canlı Ortamdaki Projenin Fonksiyonel Testlerinin Yapılması | 2 hafta  |
 | Ercan Satık | Canlı Ortamdaki Projenin Fonksiyonel Olmayan Testlerin Yapılması | 2 hafta |
-| Ömer Faruk Aydemir | Sistemin kalibrasyonunun yapılması |1 hafta |
-| Hakan Bahşiş |  Uygulamanın GUI gelişimi için son kullanıcılar ile iletişime geçilmesi  | 2 hafta |
-| Yakup KAYA  |  Final testlerin yapılması ve raporlaması | 2 hafta  |
-| Abdullah Akpınar  | Sistemin test edilmesi ve hata raporlarının oluşturulması | 3 hafta |
+| Ömer Faruk Aydemir | Projenin Genel Dökümantasyonun Çıkarılması |3 hafta |
+| Hakan Bahşiş |  Uygulamanın GUI Gelişimi için Son Kullanıcılar ile İletişime Geçilmesi  | 2 hafta |
+| Yakup KAYA  |  Final Testlerin Yapılması ve Raporlaması | 2 hafta  |
+| Abdullah Akpınar  | Sistemin Test Edilmesi ve hata Raporlarının Oluşturulması | 3 hafta |
 
 
 
