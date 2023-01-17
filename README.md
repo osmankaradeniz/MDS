@@ -105,7 +105,7 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 - Her tablo bir sprint'i ifade eder.
 
 | Okul Numarası | Adı Soyadı  | Yetkinlik | Notlandırma|
-| :-----:  | :-----: | :---: | | :---: |
+| :-----:  | :-----: | :---: | :---: |
 | 190542012 | Osman Karadeniz | Full Stack Developer - Scrum Master: Projenin Back-end tarfının geliştirilmesi ve ekip koordinasyonlarının sağlanması. Proje için geliştirilen kodların entegrasyonu. | AA |
 | 190541090 | Gönenç Can Değirmencioğlu | Network Engineer: Sistemin canlı ortama alınması için kurulumu ve çalışan sistemin güvenliğininin sağlanması| |
 | 200541083 | Ali Kadir Bulut | QA Engineer: Yapılan testlerin doğruluğunun onaylanması ve yapılan değişikliklerin takım liderine verilmeden önce kontrol edilmesi | |
