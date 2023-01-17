@@ -131,7 +131,7 @@ VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık )
 | Ercan Satık |-| - |
 | Ömer Faruk Aydemir |Olası Firmalar ile Görüşmelerin Gerçekleştirilmesi | 3 hafta |
 | Hakan Bahşiş | Kullanılacak Olan API'ların Araştırılması ve Karar Verilmesi  | 3 hafta |
-| Yakup KAYA  | Kullanılacak Olan Front-end Teknolojilerinin Araştırılması ve Prototip Çıkarımı  |3 hafta |
+| Yakup KAYA  | Kullanılacak Olan Front-end Teknolojilerinin Araştırılması ve Örnek Çıkarımı  |3 hafta |
 | Abdullah Akpınar  | Test ortamı İçin Gerekli Olan Setupın Araştırılması ve Uygulaması  | 3 hafta  |
 
 ### Sprint 1 Sonuçları
@@ -152,8 +152,8 @@ VİŞMER Ekibi(200541083- Ali Kadir Bulut - 200541306 - Ercan Satık )
 | Ercan Satık |  Veri Setinin Ayrıştırılması ve Etiketlenmesi | 1 hafta  |
 | Ömer Faruk Aydemir | Proje İçin Gerekli Olan Logo Tasarımı | 3 Hafta |
 | Hakan Bahşiş |  API'lerin Oluşturulması ve Test Edilmesi   | 3 hafta |
-| Yakup KAYA  | Kullanılacak Olan | 3 hafta |
-| Abdullah Akpınar  | Olulturulan Test Seneryolarının Gerçekleştirilmesi | 3 hafta |
+| Yakup KAYA  | Oluşturulan Arayüzün Eksikliklerinin Tamamlanamsı ve Geliştirimi | 3 hafta |
+| Abdullah Akpınar  | Oluşturulan Test Seneryolarının Gerçekleştirilmesi | 3 hafta |
 
 
 ### Sprint 2 Sonuçları
