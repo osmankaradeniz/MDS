@@ -219,6 +219,7 @@ Sistemin tek tek mermerlerin yüksek kaliteli görüntüleri için optimize edil
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 # Teknoloji Hazırlık Seviyeleri
+Teknoloji Hazırlık Seviyesi(THS), belirli bir teknolojinin olgunluğunun değerlendirilmesini sağlayan ve farklı teknolojiler arasında olgunluğun tutarlı bir şekilde karşılaştırılmasına imkân veren sistematik bir ölçüm sistemidir.
 ## THS 1
 Projemizde mermer doğrulama temel alınarak ilerlenmiş olup bunun yanında mermer kalite sınıflandırması, mermer tür tespiti,renk analizi ve veri seti üretici gibi kısımlarıda bulunmaktadır.Aşağıda kalite sınıflandırmasına ilişkin biligiler yer edinmiştir.
 Farklı türdeki mermerlerin tanımlanması ve sınıflandırılması, genellikle bu alandaki uzman kişiler tarafından manuel olarak gerçekleştirilen kritik bir iştir.
