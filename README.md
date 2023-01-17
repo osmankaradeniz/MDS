@@ -110,7 +110,7 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | 190541090 | Gönenç Can Değirmencioğlu | Network Engineer: Sistemin canlı ortama alınması için kurulumu ve çalışan sistemin güvenliğininin sağlanması|
 | 200541083 | Ali Kadir Bulut | QA Engineer Yapılan testlerin doğruluğunun onaylanması ve yapılan değişikliklerin takım liderine verilmeden önce kontrol edilmesi |
 | 200541306 | Ercan Satık   | Database Developer Sistem için gerekli olan veri tabanının oluşturulması ve eğitilecek olan verilerin eğitime hazır hale getirilmesi |
-| 190541086 | Ömer Faruk Aydemir | Web Developer|
+| 190541086 | Ömer Faruk Aydemir | Web Developer Front-end geliştirim aşamalarının takibi ve olası yatırımı alımı için girişimlerin sağlanması |
 | 190542018 | Hakan Bahşiş   | Front-end Developer |
 | 15542018 | Yakup KAYA   | Front-end Developer |
 | 195541073 | Abdullah Akpınar  | Test Engineer |
