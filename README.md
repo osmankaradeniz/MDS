@@ -109,7 +109,7 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 | 190542012 | Osman Karadeniz | Full Stack Developer - Scrum Master| Projenin Back-end Tarafının Geliştirilmesi ve Ekip Koordinasyonlarının Sağlanması. Projemim Entegrasyonu.| AA |
 | 190541090 | Gönenç Can Değirmencioğlu | Network Engineer| Sistemin Canlı Ortama Alınması için Kurulumu ve Çalışan Sistemin Güvenliğininin Sağlanması|BA|
 | 200541083 | Ali Kadir Bulut | QA Engineer| Yapılan Testlerin Doğruluğunun Onaylanması ve Yapılan Değişikliklerin Takım Liderine Verilmeden Önce Kontrol Edilmesi |BA|
-| 200541306 | Ercan Satık   | Database Developer| Sistem için Gerekli Olan Veri Tabanının Oluşturulması ve Verilerin Eğitime Hazır Hale Getirilmesi |BA|
+| 200541306 | Ercan Satık   | Data Specialist | Sistem için Gerekli Olan Veri Tabanının Oluşturulması ve Verilerin Eğitime Hazır Hale Getirilmesi |BA|
 | 190541086 | Ömer Faruk Aydemir | Web Developer| Front-end Geliştirim Aşamalarının Takibi ve Proje Dokümantasyonu.|BB|
 | 190542018 | Hakan Bahşiş   | Front-end Developer| Sistemin Entegrasyon Edilirken Kullanılacak Olan Teknolojilerin Belirlenmesi ve Sistemin Canlıya Alınması |BA|
 | 15542018 | Yakup KAYA   | Front-end Developer| Projenin Web Arayüzünün Prototiplenmesi ve Geliştirimine Katkı Sağlanması |BB|
