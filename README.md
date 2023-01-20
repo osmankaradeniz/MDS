@@ -252,12 +252,12 @@ Mermer endüstrisinde oluşabilen anlaşmazlıkları en aza indirebilecek şekil
 
 Mermerlerin renk analizini yaparak, mermerde renk tonlarının çizelgesini çizdirerek renk kodları ile birlikte geliştirdiğimiz algoritma ile  ortaya çıkartıyoruz.
 
-<img src="http://mds23.pythonanywhere.com/static/runs/colors/elazg-visne.jpg" align="center" width="650" height="450">
+![ths-7.12]
 
 
 Ayrıca sistemimizde 28 farklı mermer veri setini eğiterek mermerleri başarılı bir şekilde sınıflandırabiliyoruz.
 
-<img src="http://mds23.pythonanywhere.com/static/runs/colors/elazg-visne.jpg" align="center" width="650" height="450">
+![ths-7.10]
 
 
 
@@ -340,9 +340,7 @@ Uygun formatta dosyayı seçtikten sonra yükle butonuna tıklayarak sistemin ç
 ### Modüllerin çıktıları
 
 ![ths-7.9]
-![ths-7.10]
 ![ths-7.11]
-![ths-7.12]
 
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
